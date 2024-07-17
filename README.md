@@ -1,5 +1,5 @@
 ---
-description: October 2025 | U.S.
+description: Fall 2025 | location tbd
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
