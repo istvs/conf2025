@@ -1,5 +1,5 @@
 ---
-description: Fall 2025 | location tbd
+description: Fall 2025 | Hanover, New Hampshire, U.S.
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
