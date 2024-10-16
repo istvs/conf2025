@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ISTVS2025 | 10th Americas Regional Conference of the ISTVS](README.md)
+  * [Schedule](readme/schedule.md)
 
 ## CONFERENCE
 
