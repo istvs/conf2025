@@ -1,39 +1,44 @@
 ---
-description: Fall 2025 | Lebanon, New Hampshire, U.S.
+description: October 6-9, 2025 | Lebanon, New Hampshire, U.S.
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
 # ISTVS2025 | 10th Americas Regional Conference of the ISTVS
 
-The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
+The ISTVS conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
 
-Both representatives of science in the field of mechanical engineering, vehicles and machines, mechatronics and automation, soil science, agriculture and environmental engineering, as well as professionals from industry, business environment and government agencies for whom the issues discussed at the conference are an important merit are invited to participate. The organizers also count on the participation of students from under- and postgraduate courses.
+Representatives of science in the fields of mechanical engineering, vehicles and machines, robotics and automation, soil science, civil engineering, agricultural engineering, environmental engineering, as well as professionals from industry, academia and government agencies are invited to participate. The organizers particularly welcome participation of students from under- and postgraduate courses.
 
-<div>
+<div align="left">
 
-<figure><img src=".gitbook/assets/4WD_test.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/NH_FallFoliage.jpg" alt=""><figcaption></figcaption></figure>
 
- 
+</div>
 
-<figure><img src=".gitbook/assets/road_roller.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
- 
-
-<figure><img src=".gitbook/assets/crawler_drone.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MRZR_Snow.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 The intention of the organizers is to create a friendly atmosphere and comfortable conditions for holding plenary sessions. The conference includes the following thematic tracks:
 
-* soil mechanical characterization
-* off-road mobility modeling
-* soil compaction
-* driving systems of off-road vehicles and machines
-* innovative concepts of tires, wheels, and tracks
-* propulsion systems and engines
-* vetronics
-* autonomous and robotic systems
-* metrology in terramechanics
+* Innovative concepts in tires, wheels, tracks, and other ground contact elements&#x20;
+* Propulsion systems and vehicle electrification
+* Creative terrain mechanical characterization and deformation modeling
+* Advances in off-road mobility modeling
+* Off-road autonomy, robotics and navigation
+* New instrumentation and analysis methods in terramechanics testing
+* Climate impacts on terrain, terramechanics, and off-road vehicles
+* International collaborations
 
-<figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src=".gitbook/assets/JLTV.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/7072072819_6963377928_k.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
