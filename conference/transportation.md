@@ -8,7 +8,7 @@ coverY: 0
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/regional map wpin.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BostonToLebanonMap.png" alt="" width="311"><figcaption></figcaption></figure>
 
 </div>
 
