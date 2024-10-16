@@ -7,6 +7,7 @@
 ## CONFERENCE
 
 * [Committee](conference/committee.md)
+* [Keynote](conference/keynote.md)
 * [Location](conference/location.md)
 * [Transportation](conference/transportation.md)
 
