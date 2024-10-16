@@ -8,9 +8,10 @@
 
 * [Committee](conference/committee.md)
 * [Keynote](conference/keynote.md)
-* [Sponsors](conference/sponsors.md)
 * [Transportation](conference/transportation.md)
 * [Location](conference/location.md)
+* [Sponsors](conference/sponsors.md)
+* [Contact](conference/contact.md)
 
 ## Society
 
