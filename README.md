@@ -1,10 +1,10 @@
 ---
-description: October 6-9, 2025 | Lebanon, New Hampshire, U.S.
+description: October 6-9, 2025 | Lebanon, New Hampshire, USA
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
-# ISTVS2025 | 10th Americas Regional Conference of the ISTVS
+# ISTVS 2025 | 10th Americas Regional Conference of the ISTVS
 
 The ISTVS conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
 

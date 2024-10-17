@@ -6,34 +6,41 @@ coverY: 0
 
 # Transportation
 
-<div align="left">
+<div align="center">
 
-<figure><img src="../.gitbook/assets/BostonToLebanonMap.png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BostonToLebanonMap.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-## Airports within a 2+ hour drive&#x20;
+## Nearby Airports&#x20;
 
-**BOS** | Logan International Airport, Boston, Massachusetts; major international airport with direct flights from many countries
+**BOS** | Logan International Airport, Boston, MA: 2 hrs by car; Bus route available
 
-**MHT** | Manchester-Boston Regional Airport, Manchester, NH. 1.5 hr drive
+**MHT** | Manchester-Boston Regional Airport, Manchester, NH: 1.5 hrs by car
 
-**LEB** | Lebanon Municipal Airport, Lebanon, New Hampshire; serviced by Cape Air with 4 flights/day to BOS
+**LEB** | Lebanon Municipal Airport, Lebanon, NH: 6 miles from conference center; Cape Air offers 4 flights/day from BOS
 
-**BTV** | Burlington International Airport, Burlington, Vermont
+**BTV** | Burlington International Airport, Burlington, VT. 2.5 hrs by car
 
-**BDL** | Bradley International Airport, Windsor Locks, Connecticut
+**BDL** | Bradley International Airport, Windsor Locks, CT. 2 hrs by car
 
 ***
 
-## Direct coach to Lebanon, NH
+## Direct Bus to Lebanon, NH
 
-Dartmouth Coach from all BOS terminals to Lebanon, New Hampshire; 11 times/day, 2 hr, $70 round trip\
-Dartmouth Coach from NYC (midtown) to Lebanon, New Hampshire; 3 times/day\
+Dartmouth Coach from all BOS terminals to Lebanon, NH; 11 times/day, 3 hours one-way, $70 round trip
+
+Dartmouth Coach from NYC (midtown) to Lebanon, NH; 3 times/day\
+
+
+Bus terminal is next door to conference location
+
 [dartmouthcoach.com](https://dartmouthcoach.com)
 
 ***
 
 ## Rental cars
 
-All major rental car companies from BOS; most major rental car companies in MHT; Avis and Enterprise in Lebanon, NH
+All major rental car companies from BOS; most major rental car companies in MHT
+
+Avis and Enterprise in Lebanon, NH
