@@ -16,7 +16,7 @@ Representatives of science in the fields of mechanical engineering, vehicles and
 
 </div>
 
-<div align="left">
+<div align="center">
 
 <figure><img src=".gitbook/assets/MRZR_Snow.jpg" alt=""><figcaption></figcaption></figure>
 

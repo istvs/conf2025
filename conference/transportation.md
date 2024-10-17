@@ -6,11 +6,9 @@ coverY: 0
 
 # Transportation
 
-<div align="center">
+{% embed url="https://www.google.com/maps/d/embed?ehbc=2E312F&hl=en&mid=15Rf1J5NsgTy9ANs7wRqq-XYjzHppXG0" %}
 
-<figure><img src="../.gitbook/assets/BostonToLebanonMap.png" alt=""><figcaption></figcaption></figure>
 
-</div>
 
 ## Nearby Airports&#x20;
 
