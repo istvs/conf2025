@@ -6,5 +6,5 @@ coverY: 0
 
 # Contact
 
-For conference inquiries, please contact [2025@istvs.org](mailto:2025@istvs.org)
+For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@istvs.org)
 
