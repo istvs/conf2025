@@ -10,7 +10,8 @@
 * [Keynote](conference/keynote.md)
 * [Location](conference/location.md)
 * [Transportation](conference/transportation.md)
-* [Sponsors](conference/sponsors.md)
+* [Sponsors](conference/sponsors/README.md)
+  * [Meet Team O'Neil](conference/sponsors/meet-team-oneil.md)
 * [Contact](conference/contact.md)
 
 ## Society

@@ -6,23 +6,25 @@ coverY: 0
 
 # Committee
 
-### Local Organizing Committee
+## Local Organizing Committee
 
 ***
 
-[**Mike Parker**](mailto:Michael.W.Parker@erdc.dren.mil) | **ISTVS2025 Conference Chair**
+[**Michael Parker**](mailto:Michael.W.Parker@erdc.dren.mil) | **ISTVS2025 Conference Chair**
 
-[**Dr. Sally Shoop**](mailto:Sally.a.shoop@usace.army.mil) | ISTVS fellow, 2021 Bekker-Reece-Radforth Award Recipient, past ISTVS President, past Deputy General Secretary for the Americas
+[**Dr. Sally Shoop**](mailto:Sally.a.shoop@usace.army.mil) | ISTVS2025 Conference Co-Chair, ISTVS fellow, 2021 Bekker-Reece-Radforth Award Recipient, past ISTVS President, past Deputy General Secretary for the Americas
 
-[**Lindsey Wetzel**](mailto:Lindsey.A.Wetzel@usace.army.mil) | Local Logistics and Conference Budget
+[**Lindsey Wetzel**](mailto:Lindsey.A.Wetzel@usace.army.mil) | Program Committee
 
-[**Heidi Howard**](mailto:Renee.D.Melendy@usace.army.mil) | Deputy General Secretary for the Americas
+[**Clifford Witte**](mailto:Clifford.F.Witte@usace.army.mil) | Program Committee
+
+[**Heidi Howard**](mailto:Heidi.R.Howard@usace.army.mil) | Deputy General Secretary for the Americas
 
 [**Renee Melendy**](mailto:Renee.D.Melendy@usace.army.mil) | ISTVS administration for the Americas
 
 ***
 
-### Conference Technical Committee
+## Conference Technical Committee
 
 Formation of the Conference Technical Committee is in progress.
 
