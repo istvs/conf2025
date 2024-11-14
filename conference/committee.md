@@ -6,6 +6,10 @@ coverY: 0
 
 # Committee
 
+{% hint style="info" %}
+For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@istvs.org)
+{% endhint %}
+
 ## Local Organizing Committee
 
 ***
