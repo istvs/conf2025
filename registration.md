@@ -1,6 +1,6 @@
 ---
 description: 10th Americas Regional Conference of the ISTVS
-cover: ../.gitbook/assets/istvs_terrain.jpeg
+cover: .gitbook/assets/istvs_terrain.jpeg
 coverY: 0
 layout:
   cover:
@@ -20,5 +20,7 @@ layout:
 
 # Registration
 
+{% hint style="info" %}
 Registration opens April 2025
+{% endhint %}
 
