@@ -14,6 +14,11 @@
   * [Meet Team O'Neil](conference/sponsors/meet-team-oneil.md)
 * [Contact](conference/contact.md)
 
+## Submissions
+
+* [Papers](submissions/papers.md)
+* [Abstracts-only](submissions/abstracts-only.md)
+
 ## Society
 
 * [ISTVS](http://www.istvs.org)
