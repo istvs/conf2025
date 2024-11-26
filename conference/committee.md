@@ -14,17 +14,17 @@ For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@
 
 ***
 
-[**Michael Parker**](mailto:Michael.W.Parker@erdc.dren.mil) | **ISTVS2025 Conference Chair**
+**Michael Parker** | **ISTVS2025 Conference Chair**
 
-[**Dr. Sally Shoop**](mailto:Sally.a.shoop@usace.army.mil) | ISTVS2025 Conference Co-Chair, ISTVS fellow, 2021 Bekker-Reece-Radforth Award Recipient, past ISTVS President, past Deputy General Secretary for the Americas
+**Dr. Sally Shoop** | ISTVS2025 Conference Co-Chair, ISTVS fellow, 2021 Bekker-Reece-Radforth Award Recipient, past ISTVS President, past Deputy General Secretary for the Americas
 
-[**Lindsey Wetzel**](mailto:Lindsey.A.Wetzel@usace.army.mil) | Program Committee
+**Lindsey Wetzel** | Program Committee
 
-[**Clifford Witte**](mailto:Clifford.F.Witte@usace.army.mil) | Program Committee
+**Clifford Witte** | Program Committee
 
-[**Heidi Howard**](mailto:Heidi.R.Howard@usace.army.mil) | Deputy General Secretary for the Americas
+**Heidi Howard** | Deputy General Secretary for the Americas
 
-[**Renee Melendy**](mailto:Renee.D.Melendy@usace.army.mil) | ISTVS administration for the Americas
+**Renee Melendy** | ISTVS administration for the Americas
 
 ***
 
@@ -36,8 +36,8 @@ Formation of the Conference Technical Committee is in progress.
 
 ### Conference Website Team
 
-[**Tavis Sotirin-Miller**](mailto:tavis.a.sotirin-miller@usace.army.mil)
+**Tavis Sotirin-Miller**
 
-[**Alex Littlefield**](mailto:Alex.C.Littlefield@erdc.dren.mil)
+**Alex Littlefield**
 
-[**Han Nguyen**](mailto:Han.V.Nguyen@erdc.dren.mil)
+**Han Nguyen**
