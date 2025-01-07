@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ISTVS 2025](README.md)
+* [55th Conference of the International Society for Terrain-Vehicle Systems](README.md)
 * [Schedule](schedule.md)
 * [Registration](registration.md)
 
@@ -8,6 +8,7 @@
 
 * [Committee](conference/committee.md)
 * [Keynote](conference/keynote.md)
+* [Call for Papers](conference/call-for-papers.md)
 * [Location](conference/location.md)
 * [Transportation](conference/transportation.md)
 * [Sponsors](conference/sponsors/README.md)
