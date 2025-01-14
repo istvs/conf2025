@@ -1,6 +1,5 @@
 ---
 description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
-hidden: true
 ---
 
 # Call for Papers
@@ -88,11 +87,7 @@ ISTVS 2025 paper template
 
 ### Presentation <a href="#presentation" id="presentation"></a>
 
-The following presentation template in _Microsoft PowerPoint_ format is provided for your convenience.
-
-{% file src="../../.gitbook/assets/ISTVS2025_Presentation_Template.zip" %}
-ISTVS 2025 presentation template&#x20;
-{% endfile %}
+Presentation template is in progress and will be posted soon.
 
 {% hint style="warning" %}
 The use of this template is **NOT** mandatory. If you choose to use your own template please maintain the **widescreen layout** and include **slide numbers**. We recommend a clean and clear layout. Whenever possible, aim for visual consistency throughout your presentation.
