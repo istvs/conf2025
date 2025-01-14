@@ -26,7 +26,7 @@ All accepted submissions of either abstract-only or full-paper type will be incl
 
 ## Key dates <a href="#key-dates" id="key-dates"></a>
 
-Key dates are listed [here](../schedule.md#key-dates).
+Key dates are listed [here](../../schedule.md#key-dates).
 
 ***
 
@@ -47,7 +47,7 @@ The conference includes the following thematic tracks:
 
 ## CFP poster <a href="#cfp-poster" id="cfp-poster"></a>
 
-You can view the Call for Papers poster here.
+You can view the Call for Papers poster [here](cfp-poster.md).
 
 ***
 
@@ -63,14 +63,16 @@ Access the ISTVS 2025 EasyChair site here: [https://easychair.org/my/conference?
 
 * Make sure that the authors you list in the _EasyChair_ form are **the same** as in your full paper and/or poster, and in the **same order**.
 * Adopt the same **consistency** for the **authors’ affiliations**.
-* If at any time you need to make changes to the list of authors, please **promptly** [**notify the conference organizers**](contact.md)**.**
+* If at any time you need to make changes to the list of authors, please **promptly** [**notify the conference organizers**](../contact.md)**.**
 * If the same authors appear in **multiple submissions**, please write the authors' **names** and **affiliations** in the **same way**, for **all submissions** (both in _EasyChair_ and in the papers/posters).
 * If the latin alphabet is not your native alphabet, please make sure that you use the **same transliteration** for your name across all submissions (both in _EasyChair_ and in the papers/posters).
-* If at any time - provided it's compatible with the conference organization schedule - you wish to **change your submission type** (abstract-only vs full paper) or **change your presentation type** (oral presentation vs poster session), please **promptly** [**notify the conference organizers**](contact.md)**.**
+* If at any time - provided it's compatible with the conference organization schedule - you wish to **change your submission type** (abstract-only vs full paper) or **change your presentation type** (oral presentation vs poster session), please **promptly** [**notify the conference organizers**](../contact.md)**.**
 
 ***
 
 ## Templates for submissions <a href="#templates-for-submissions" id="templates-for-submissions"></a>
+
+_Template files are provided as zip archives containing an editable format as well as a PDF for convenience._
 
 ### Abstract <a href="#abstract" id="abstract"></a>
 
@@ -80,15 +82,17 @@ Access the ISTVS 2025 EasyChair site here: [https://easychair.org/my/conference?
 
 Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template** linked here.
 
-{% file src="../.gitbook/assets/ISTVS_Paper_Template_2025.zip" %}
+{% file src="../../.gitbook/assets/ISTVS2025_Paper_Template.zip" %}
 ISTVS 2025 paper template
 {% endfile %}
 
-The zip archive provided includes the paper template in PDF form, in case the _Word_ document breaks when opened locally.
-
 ### Presentation <a href="#presentation" id="presentation"></a>
 
-_Presentation template in progress._
+The following presentation template in _Microsoft PowerPoint_ format is provided for your convenience.
+
+{% file src="../../.gitbook/assets/ISTVS2025_Presentation_Template.zip" %}
+ISTVS 2025 presentation template&#x20;
+{% endfile %}
 
 {% hint style="warning" %}
 The use of this template is **NOT** mandatory. If you choose to use your own template please maintain the **widescreen layout** and include **slide numbers**. We recommend a clean and clear layout. Whenever possible, aim for visual consistency throughout your presentation.
@@ -96,7 +100,15 @@ The use of this template is **NOT** mandatory. If you choose to use your own tem
 
 ### Poster <a href="#poster" id="poster"></a>
 
-_Poster template in progress._
+The following poster template in _Microsoft PowerPoint_ format is provided for your convenience.
+
+{% file src="../../.gitbook/assets/ISTVS2025_Poster_Template.zip" %}
+ISTVS 2025 poster template
+{% endfile %}
+
+{% hint style="warning" %}
+The use of this template is **NOT** mandatory. We recommend a clean and clear layout.
+{% endhint %}
 
 ***
 

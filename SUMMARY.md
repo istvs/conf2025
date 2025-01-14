@@ -8,7 +8,8 @@
 
 * [Committee](conference/committee.md)
 * [Keynote](conference/keynote.md)
-* [Call for Papers](conference/call-for-papers.md)
+* [Call for Papers](conference/call-for-papers/README.md)
+  * [CFP Poster](conference/call-for-papers/cfp-poster.md)
 * [Location](conference/location.md)
 * [Transportation](conference/transportation.md)
 * [Sponsors](conference/sponsors/README.md)
