@@ -35,6 +35,7 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 * Creative terrain mechanical characterization and deformation modeling
 * Advances in off-road mobility modeling
 * Off-road autonomy, robotics and navigation
+* Planetary terramechanics
 * New instrumentation and analysis methods in terramechanics testing
 * Climate impacts on terrain, terramechanics, and off-road vehicles
 * International collaborations
