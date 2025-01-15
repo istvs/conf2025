@@ -28,9 +28,9 @@ For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@
 
 ***
 
-## Conference Technical Committee
+## Conference Scientific Committee
 
-Formation of the Conference Technical Committee is in progress.
+Formation of the Conference Scientific Committee is in progress.
 
 ***
 
