@@ -30,7 +30,37 @@ For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@
 
 ## Conference Scientific Committee
 
-Formation of the Conference Scientific Committee is in progress.
+**Mike Parker** (Conference Chair) | ERDC-Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
+
+**Sally Shoop** (Conference Co-Chair) | ERDC- Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
+
+**Maria Stevens** (Proceedings Editor) | ERDC-Geotechnical and Structures Laboratory, Vicksburg, MS
+
+**Susan Frankenstein** (Proceedings Editor) | ERDC- Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
+
+**Sarah Peidmont** (Proceedings Editor) | ERDC- Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
+
+**David Gorsich** | Ground Vehicle Systems Center, Warren, MI&#x20;
+
+**Mike Letherwood** | Ground Vehicle Systems Center, Warren, MI&#x20;
+
+**Henry Hodges** | Nevada Automotive Test Center, Silver Springs, NV&#x20;
+
+**Heidi Howard** | ERDC-Construction Engineering Research Laboratory, Champaign, IL&#x20;
+
+**Brad Hansen** | ERDC-Geotechnical and Structures Laboratory, Vicksburg, MS&#x20;
+
+**John Rushing** | ERDC-Geotechnical and Structures Laboratory, Vicksburg, MS&#x20;
+
+**Mehari Tekeste** | Iowa State University, Ames, IA&#x20;
+
+**Massimo Martelli** | National Research Council, Italy&#x20;
+
+**Lutz Richter** | SoftServe, Inc., Germany&#x20;
+
+**Schalk Els** | University of Pretoria, South Africa&#x20;
+
+**Junya Yamakawa** | National Defense Academy, Yokosuka, Japan
 
 ***
 
