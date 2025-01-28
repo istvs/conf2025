@@ -6,7 +6,7 @@ coverY: 0
 
 # Keynote
 
-## Paul van Susante
+## Dr. Paul van Susante
 
 #### _Assistant Professor at Michigan Technological University, holder of the Lou & Herbert Wacker professorship in Mechanical Engineering, department of Mechanical and Aerospace Engineering and Affiliate Assistant Professor in the Civil, Environmental and Geospatial Engineering department_
 
