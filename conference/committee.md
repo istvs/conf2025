@@ -38,7 +38,7 @@ For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@
 
 **Susan Frankenstein** (Proceedings Editor) | ERDC- Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
 
-**Sarah Peidmont** (Proceedings Editor) | ERDC- Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
+**Sarah Piedmont** (Proceedings Editor) | ERDC- Cold Regions Research and Engineering Laboratory, Hanover, NH&#x20;
 
 **David Gorsich** | Ground Vehicle Systems Center, Warren, MI&#x20;
 
