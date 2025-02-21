@@ -22,7 +22,7 @@ For conference inquiries, please contact [ISTVS2025@istvs.org](mailto:ISTVS2025@
 
 **Clifford Witte** | Program Committee
 
-**Heidi Howard** | Deputy General Secretary for the Americas
+**Heidi Howard** | ISTS North America Treasurer
 
 **Renee Melendy** | ISTVS administration for the Americas
 
