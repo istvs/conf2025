@@ -12,6 +12,7 @@
   * [CFP Poster](conference/call-for-papers/cfp-poster.md)
 * [Location](conference/location.md)
 * [Transportation](conference/transportation.md)
+* [Technical Tour](conference/technical-tour.md)
 * [Sponsors](conference/sponsors/README.md)
   * [Meet Team O'Neil](conference/sponsors/meet-team-oneil.md)
 * [Contact](conference/contact.md)
