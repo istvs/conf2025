@@ -47,4 +47,4 @@ See registrations costs below. **Full registrations also include ISTVS membershi
 | Accompanying Person Tickets               | Cost       |
 | ----------------------------------------- | ---------- |
 | Ice Breaker Reception (Monday, October 6) | $50.00 USD |
-| Banquet (Wednesday, October 8)            | $75.00 USD |
+| Banquet (Thursday, October 9)             | $75.00 USD |
