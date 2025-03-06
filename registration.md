@@ -40,9 +40,9 @@ See registrations costs below. **Full registrations also include ISTVS membershi
 | ------------------------------- | ----------- |
 | Partial Conference - Single Day | $360.00 USD |
 
-| Workshop Registration                | Cost       |
-| ------------------------------------ | ---------- |
-| Algoryx Workshop (Monday, October 6) | $75.00 USD |
+| Workshop Registration                | Cost        |
+| ------------------------------------ | ----------- |
+| Algoryx Workshop (Monday, October 6) | $125.00 USD |
 
 | Accompanying Person Tickets               | Cost       |
 | ----------------------------------------- | ---------- |

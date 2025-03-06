@@ -17,6 +17,8 @@
 * [Technical Tour](conference/technical-tour.md)
 * [Sponsors](conference/sponsors/README.md)
   * [Meet Team O'Neil](conference/sponsors/meet-team-oneil.md)
+  * [Meet NATC](conference/sponsors/meet-natc.md)
+* [Post-Conference Events](conference/post-conference-events.md)
 * [Contact](conference/contact.md)
 
 ## Submissions

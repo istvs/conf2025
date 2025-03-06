@@ -35,8 +35,9 @@ This workshop is ideal for:
 
 ### Costs and Registration
 
-* **Costs:** $75.00/ Ticket (Lunch will be provided)
-* **Register Now** to secure your seat for this immersive experience in real-time simulation
+* **Costs:** $125.00/ Ticket (Lunch will be provided)
+* [**Register Now**](../registration.md) to secure your seat for this immersive experience in real-time simulation.
+* _<mark style="color:red;">**Limited to 25 attendees, register early to save your seat!**</mark>_
 
 \
 To learn more about Algoryx, please visit [https://www.algoryx.se/](https://www.algoryx.se/)
