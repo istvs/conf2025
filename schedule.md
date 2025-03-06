@@ -20,7 +20,7 @@ layout:
 
 # Schedule
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmN6ldree296D52_47oUmU5hxBepJ6rvTDgD36l_-oKxslnzXE9USWXqDx7Wc7tomoZ3r4u6IKrCV5/pubhtml?gid=0&output=pdf&single=true" fullWidth="true" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSmN6ldree296D52_47oUmU5hxBepJ6rvTDgD36l_-oKxslnzXE9USWXqDx7Wc7tomoZ3r4u6IKrCV5/pubhtml?gid=0&output=pdf&single=true" fullWidth="false" %}
 
 
 
