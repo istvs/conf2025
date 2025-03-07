@@ -19,7 +19,7 @@ The technical tour will include two separate events about 1.5 miles apart. Parti
 
 ***
 
-### Team O’Neil Demonstrations
+### Team O’Neil Rally Demonstrations
 
 * Vehicle Dynamics and Soft Soil Mobility by multi-time Rally Champions Tim O’Neil and North American Rally champion Travis Hansen.
 * Static display and introduction to Rally cars and their modifications for high-speed, paved and unpaved-road performance.
