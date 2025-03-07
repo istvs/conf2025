@@ -20,7 +20,7 @@ layout:
 
 # Meet NATC
 
-<figure><img src="../../.gitbook/assets/The-Future-of-Automotive-Testing.jpg" alt=""><figcaption><p>The Future of Automotive Testing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/The-Future-of-Automotive-Testing.jpg" alt=""><figcaption><p>NATC - The Future of Automotive Testing</p></figcaption></figure>
 
 Founded in 1957, NATC is a privately owned, independent test, evaluation, design, and engineering facility offering development and certification testing to customers worldwide. We have provided services for more than 1,000 vehicle systems and components for automotive, commercial, construction, military, and public utility applications, and we have logged more than 50 million test miles and advanced the state of the art in test procedures, data acquisition, and analysis.
 
