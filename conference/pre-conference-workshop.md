@@ -16,8 +16,8 @@ Whether you are new to real-time simulation or looking to deepen your expertise,
 
 ### Date & Time
 
-* **Date**: Monday, October 6, 2025
-* **Time:** 08:00 AM - 10:00 AM
+* **Date**: Monday, October 6
+* **Time:** 0800 - 1000
 
 ### Who Should Attend?
 
