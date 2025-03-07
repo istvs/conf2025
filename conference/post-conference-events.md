@@ -42,8 +42,8 @@ The results of the workshop will be documented in a publication in the Journal o
 
 ### Date & Time:&#x20;
 
-* Monday, October 6
-* 0800 - 1000
+* Friday, October 10
+* 0800 - 1200
 
 [Register for the Autonomy Workshop as part of the ISTVS Conference here.](../registration.md)
 

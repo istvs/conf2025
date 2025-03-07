@@ -14,8 +14,8 @@ The technical tour will include two separate events about 1.5 miles apart. Parti
 
 ### Date & Time
 
-* Monday, October 6
-* 0800 - 1000
+* Wednesday, October 8
+* 0700 - 1730
 
 ***
 
