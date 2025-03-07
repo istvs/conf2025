@@ -13,7 +13,7 @@ Team O'Neil is the world leader in advanced vehicle control driver training on a
 ### Date & Time
 
 * Friday, October 10
-* 0800-1600
+* 0800 - 1600
 
 ***
 
