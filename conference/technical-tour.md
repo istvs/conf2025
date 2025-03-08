@@ -5,7 +5,7 @@ description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
 # Technical Tour
 
 {% hint style="success" %}
-Technical tour will be held _**outside, rain or shine,**_ please make sure to wear appropriate attire. Average New England temperatures during October range from 30°F / -1°C to 60°F / -15°C.
+Technical tour will be held _**outside, rain or shine,**_ please make sure to wear appropriate attire. Average New England temperatures during October range from 30°F / -1°C to 60°F / 15°C.
 {% endhint %}
 
 ### About
