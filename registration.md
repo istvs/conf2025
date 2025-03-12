@@ -20,8 +20,8 @@ layout:
 
 # Registration
 
-{% hint style="info" %}
-Registration opens March 14, 2025
+{% hint style="success" %}
+[Registration is now open. Click here to register.](https://forms.istvs.org/)
 
 See registrations costs below. **Full registrations also include ISTVS membership fee.**
 {% endhint %}
