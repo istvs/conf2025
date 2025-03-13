@@ -59,6 +59,22 @@ Access the ISTVS 2025 EasyChair site here: [https://easychair.org/my/conference?
 
 ***
 
+## Copyright Assignment Form
+
+Copyright assignment form is intended for original material submitted to conferences of the International Society for Terrain-Vehicle Systems (ISTVS) and must accompany any such material in order to be published by the ISTVS. Before publication of your paper in conference proceedings, the ISTVS must receive a completed and signed copy of this form sent via email to the conference chair.
+
+{% file src="../../.gitbook/assets/ISTVS_Copyright_Assignment_Form_2025.pdf" %}
+ISTVS Copyright Assigment Form 2025.pdf
+{% endfile %}
+
+{% hint style="warning" %}
+If all authors are U.S. Goverment Employees, please use the designated copyright assignment form below.
+{% endhint %}
+
+{% file src="../../.gitbook/assets/For_US_Government_Employees_ONLY_ISTVS_2025_Copyright_Form.pdf" %}
+ISTVS Copyright Assigment Form 2025 - U.S. Government Employees.pdf
+{% endfile %}
+
 ## Submission guidelines <a href="#submission-guidelines" id="submission-guidelines"></a>
 
 * Make sure that the authors you list in the _EasyChair_ form are **the same** as in your full paper and/or poster, and in the **same order**.
@@ -82,7 +98,7 @@ _Template files are provided as zip archives containing an editable format as we
 
 Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template** linked here.
 
-{% file src="../../.gitbook/assets/ISTVS2025_Paper_Template.zip" %}
+{% file src="../../.gitbook/assets/ISTVS_Paper_Template_2025.zip" %}
 ISTVS 2025 paper template
 {% endfile %}
 
