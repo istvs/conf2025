@@ -21,9 +21,17 @@ The technical tour will include two separate events about 1.5 miles apart. Parti
 
 ### Team O’Neil Rally Demonstrations
 
+<figure><img src="../.gitbook/assets/Canaan Aerial Shot.png" alt=""><figcaption><p>Canaan Aerial Shot</p></figcaption></figure>
+
 * Vehicle Dynamics and Soft Soil Mobility by multi-time Rally Champions Tim O’Neil and North American Rally champion Travis Hansen.
 * Static display and introduction to Rally cars and their modifications for high-speed, paved and unpaved-road performance.
-* Ride-along asphalt rally experience (1 to 3 per vehicle, depending on number of participants and schedule.)
+* Ride-along asphalt rally experience (1 to 3 per vehicle, depending on number of participants and schedule).
+
+<figure><img src="../.gitbook/assets/FIESTA 1.jpg" alt=""><figcaption></figcaption></figure>
+
+<div align="left"><figure><img src="../.gitbook/assets/IMG_2600.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2478.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/_MG_3960.JPG" alt=""><figcaption></figcaption></figure>
 
 ### Autonomy Demonstrations
 
