@@ -29,7 +29,7 @@ The technical tour will include two separate events about 1.5 miles apart. Parti
 
 <figure><img src="../.gitbook/assets/FIESTA 1.jpg" alt=""><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../.gitbook/assets/IMG_2600.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2478.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/IMG_2600.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2478.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/_MG_3960.JPG" alt=""><figcaption></figcaption></figure>
 
