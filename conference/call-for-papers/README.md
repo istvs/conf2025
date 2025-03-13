@@ -75,6 +75,8 @@ If all authors are U.S. Goverment Employees, please use the designated copyright
 ISTVS Copyright Assigment Form 2025 - U.S. Government Employees.pdf
 {% endfile %}
 
+***
+
 ## Submission guidelines <a href="#submission-guidelines" id="submission-guidelines"></a>
 
 * Make sure that the authors you list in the _EasyChair_ form are **the same** as in your full paper and/or poster, and in the **same order**.
