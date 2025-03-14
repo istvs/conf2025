@@ -6,7 +6,7 @@ description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
 
 _ISTVS 2025_, the _55th Conference of the International Society for Terrain-Vehicle Systems_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
-* Interested authors are invited to submit an abstract between **January 15 - March 15**, 2025.
+* Interested authors are invited to submit an abstract between **January 15 - April 5**, 2025.
 * Abstracts must be under 1800 characters and must emphasize the objectives and results.
 * Authors may choose between the following two types of submissions: **full paper** or **abstract-only**.
 * For either type of submission, authors can choose to do an **oral presentation** at the conference or submit a **poster** for the conference poster session. You must be at the conference for either.
