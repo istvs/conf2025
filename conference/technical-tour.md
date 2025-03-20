@@ -35,6 +35,8 @@ The technical tour will include two separate events about 1.5 miles apart. Parti
 
 ### Autonomy Demonstrations
 
+<figure><img src="../.gitbook/assets/Picture1.png" alt=""><figcaption><p>Autonomy Demonstration Site</p></figcaption></figure>
+
 Off-road vehicle autonomy presents unique challenges beyond those facing on-road autonomy due to the unpredictable and varied nature of off-road environments. The exploration and extension of novel modeling, estimation, and control methodologies and frameworks spanning from the subsystems to system, and system-of-system are crucial for unlocking the full potential of autonomous off-road vehicles. In particular, developing robust and reliable technologies for off-road autonomy will incorporate applications across diverse sectors, including agriculture, mining, construction, military and defense. This operational demonstration (on Wednesday) and post-conference workshop (Friday) aim to bring together the autonomous vehicle community to jointly explore the technical challenges, showcase promising technical directions, and outline opportunities for future exploration. Specifically, the objectives of the workshop/demo will focus on theoretical and machine learning comparisons and promote a technical exchange between government, industry, and academic participants. the event will include four (4) or five (5) teams, all showcasing different off-road autonomous vehicle navigation approaches. The expectation is that the associated workshop will summarize the demonstration for inclusion in the discussion and publication on the research needs.
 
 ***
