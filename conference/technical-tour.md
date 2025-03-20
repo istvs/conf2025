@@ -8,14 +8,28 @@ description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
 Technical tour will be held _**outside, rain or shine,**_ please make sure to wear appropriate attire. Average New England temperatures during October range from 30°F / -1°C to 60°F / 15°C.
 {% endhint %}
 
-### About
-
-The technical tour will include two separate events about 1.5 miles apart. Participants will be bussed from the Hilton Garden Inn to and from the tour sites. The attendees will be split into two groups with the first group attending Team O’Neil (TON) Rally School Tarmac events and the second group attending the autonomy demonstrations at nearby Ridge Runner Promotions. The teams will meet back at TON for lunch before switching areas for the afternoon session. The day will start with pickup at the hotel at 0700 for an 0800 start of the demonstrations and will return to the hotel around 1730 that evening. This combination of events will: 1) Demonstrate possibilities and the limits of highspeed vehicle control on asphalt with instruction/discussions on how this applies to high-speed driving on gravel, snow-covered, and sometimes rough terrain condition, and 2) showcase the current state of “high-speed” autonomous navigation in complex off-road conditions. The pairing of these events will allow both fields to see where improvements and techniques can be shared between the manned and unmanned worlds of extreme driving.
-
 ### Date & Time
 
 * Wednesday, October 8
 * 0700 - 1730
+
+### About
+
+The technical tour will include two separate events about 1.5 miles apart. Participants will be bussed from the Hilton Garden Inn to and from the tour sites. The attendees will be split into two groups with the first group attending Team O’Neil Rally School Tarmac events and the second group attending the autonomy demonstrations at nearby Ridge Runner Promotions. The teams will meet back at Team O’Neil for lunch before switching areas for the afternoon session. The day will start with pickup at the hotel at 0700 for an 0800 start of the demonstrations and will return to the hotel around 1730 that evening.&#x20;
+
+### Autonomy Demonstrations
+
+Off-road vehicle autonomy faces unique challenges due to the unpredictable nature of off-road environments. Advancing modeling, estimation, and control methodologies for both subsystems and systems is key to unlocking the potential of autonomous off-road vehicles. These technologies have applications in sectors like agriculture, mining, construction, and defense. The upcoming demonstration (Wednesday) and workshop (Friday) aim to bring together the autonomous vehicle community to explore technical challenges, showcase promising directions, and discuss future opportunities. The event will feature four or five teams showcasing different off-road navigation approaches, with the workshop summarizing the demonstration for future research discussions and publications.
+
+### Ridge Runner Demonstrations
+
+<div><figure><img src="../.gitbook/assets/Picture1.png" alt="" width="299"><figcaption><p>Ridge Runner Courses</p></figcaption></figure> <figure><img src="../.gitbook/assets/oneil.jpeg" alt="" width="375"><figcaption><p>The Ridge</p></figcaption></figure></div>
+
+The Ridge Runner course is a more extreme example of off road mobility. This demonstration will be high-speed driving in rugged conditions, on asphalt, over gravel, and through winter weather affected terrain. These conditions are excellent for pushing vehicles to their theoretical limitations. This demonstration will include a discussion on how this applies to off road mobility and the many challenges of autonomy in these conditions.
+
+<div><figure><img src="../.gitbook/assets/20250319_171044.jpeg" alt="" width="375"><figcaption><p>Complex, off-road conditions</p></figcaption></figure> <figure><img src="../.gitbook/assets/20250319_164210.jpeg" alt="" width="375"><figcaption><p>Water Obstacle</p></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/20250319_164531.jpeg" alt="" width="375"><figcaption><p>Narrow, winding paths</p></figcaption></figure> <figure><img src="../.gitbook/assets/20250319_165029.jpeg" alt="" width="375"><figcaption><p>Close corners</p></figcaption></figure></div>
 
 ***
 
@@ -23,21 +37,15 @@ The technical tour will include two separate events about 1.5 miles apart. Parti
 
 <figure><img src="../.gitbook/assets/Canaan Aerial Shot.png" alt=""><figcaption><p>Canaan Asphalt Rally</p></figcaption></figure>
 
-* Vehicle Dynamics and Soft Soil Mobility by multi-time Rally Champions Tim O’Neil and North American Rally champion Travis Hansen.
-* Static display and introduction to Rally cars and their modifications for high-speed, paved and unpaved-road performance.
-* Ride-along asphalt rally experience (1 to 3 per vehicle, depending on number of participants and schedule).
+Multi-time rally champions Team O'Neil and North American Rally champion Travis Hansen will demonstrate vehicle dynamics and soft soil mobility. There will be a static display and introduction to Rally cars and their modifications for high-speed, paved and unpaved-road performance.
+
+Included is a ride-along asphalt rally experience (1 to 3 per vehicle, depending on number of participants and schedule).
 
 <figure><img src="../.gitbook/assets/FIESTA 1.jpg" alt=""><figcaption></figcaption></figure>
 
 <div align="center"><figure><img src="../.gitbook/assets/IMG_2600.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2478.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/_MG_3960.JPG" alt=""><figcaption></figcaption></figure>
-
-### Autonomy Demonstrations
-
-<figure><img src="../.gitbook/assets/Picture1.png" alt=""><figcaption><p>Autonomy Demonstration Site</p></figcaption></figure>
-
-Off-road vehicle autonomy presents unique challenges beyond those facing on-road autonomy due to the unpredictable and varied nature of off-road environments. The exploration and extension of novel modeling, estimation, and control methodologies and frameworks spanning from the subsystems to system, and system-of-system are crucial for unlocking the full potential of autonomous off-road vehicles. In particular, developing robust and reliable technologies for off-road autonomy will incorporate applications across diverse sectors, including agriculture, mining, construction, military and defense. This operational demonstration (on Wednesday) and post-conference workshop (Friday) aim to bring together the autonomous vehicle community to jointly explore the technical challenges, showcase promising technical directions, and outline opportunities for future exploration. Specifically, the objectives of the workshop/demo will focus on theoretical and machine learning comparisons and promote a technical exchange between government, industry, and academic participants. the event will include four (4) or five (5) teams, all showcasing different off-road autonomous vehicle navigation approaches. The expectation is that the associated workshop will summarize the demonstration for inclusion in the discussion and publication on the research needs.
 
 ***
 
