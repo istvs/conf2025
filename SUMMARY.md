@@ -10,6 +10,7 @@
 * [Keynote](conference/keynote.md)
 * [Call for Papers](conference/call-for-papers/README.md)
   * [CFP Poster](conference/call-for-papers/cfp-poster.md)
+* [Student Competition](conference/student-competition.md)
 * [Location](conference/location.md)
 * [Transportation](conference/transportation.md)
 * [Pre-Conference Workshop](conference/pre-conference-workshop.md)
