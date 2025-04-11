@@ -14,11 +14,15 @@
 * [Transportation](conference/transportation.md)
 * [Pre-Conference Workshop](conference/pre-conference-workshop.md)
 * [Banquet](conference/banquet.md)
-* [Technical Tour](conference/technical-tour.md)
+* [Technical Tour](conference/technical-tour/README.md)
+  * [Team O’Neil Rally Demonstrations](conference/technical-tour/team-oneil-rally-demonstrations.md)
+  * [Autonomy Demonstration](conference/technical-tour/autonomy-demonstration.md)
 * [Sponsors](conference/sponsors/README.md)
   * [Meet Team O'Neil](conference/sponsors/meet-team-oneil.md)
   * [Meet NATC](conference/sponsors/meet-natc.md)
-* [Post-Conference Events](conference/post-conference-events.md)
+* [Post-Conference Events](conference/post-conference-events/README.md)
+  * [Team O'Neil Rally School Tour](conference/post-conference-events/team-oneil-rally-school-tour.md)
+  * [Autonomy Workshop](conference/post-conference-events/autonomy-workshop.md)
 * [Contact](conference/contact.md)
 
 ## Submissions
