@@ -17,7 +17,7 @@ All abstracts will be reviewed by the conference Editorial Committee. Abstract a
 
 #### **Full paper submissions**
 
-After abstract acceptance, authors submitting a full paper must make their submission by **May 15**, 2025. Each full paper will be subject to peer review by the conference Scientific Committee. Each paper will be either accepted, accepted with revisions or rejected; authors will be notified by **July 1**, 2025. If a revision is requested, the revised paper must be submitted by **August 1**, 2025.
+After abstract acceptance, authors submitting a full paper must make their submission by ~~**May 15**~~ **May 31,** 2025. Each full paper will be subject to peer review by the conference Scientific Committee. Each paper will be either accepted, accepted with revisions or rejected; authors will be notified by **July 1**, 2025. If a revision is requested, the revised paper must be submitted by **August 1**, 2025.
 
 All accepted submissions of either abstract-only or full-paper type will be included in the conference program and will be published in the conference proceedings, on the condition that **at least one author attend the conference** to present the work. **Only full papers** will be assigned a **DOI** and will have a permanent individual page on the conference website.
 
