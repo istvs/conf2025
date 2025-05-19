@@ -68,6 +68,4 @@ For conference inquiries, please contact Lindsey.A.Wetzel@usace.army.mil
 
 **Tavis Sotirin-Miller**
 
-**Alex Littlefield**
-
 **Han Nguyen**
