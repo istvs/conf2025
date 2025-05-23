@@ -6,6 +6,10 @@ coverY: 0
 
 # Sponsors
 
+{% hint style="success" %}
+Sponsorship options are still available and welcome for the 2025 conference! [Please visit our sponsorship page for more details. ](become-a-sponsor.md)
+{% endhint %}
+
 Special thanks to [Team O'Neil Rally School](https://teamoneil.com/) for their sponsorship and participation!
 
 <div align="center"><figure><img src="../../.gitbook/assets/TeamONeil_LogoTrim.png" alt="" width="563"><figcaption><p><a href="https://teamoneil.com/product/tarmac-rally-school/">teamoneil.com</a></p></figcaption></figure></div>

@@ -3,6 +3,7 @@
 * [55th Conference of the International Society for Terrain-Vehicle Systems](README.md)
 * [Schedule](schedule.md)
 * [Registration](registration.md)
+* [Overview](overview.md)
 
 ## CONFERENCE
 
@@ -21,6 +22,7 @@
 * [Sponsors](conference/sponsors/README.md)
   * [Meet Team O'Neil](conference/sponsors/meet-team-oneil.md)
   * [Meet NATC](conference/sponsors/meet-natc.md)
+  * [Become a Sponsor](conference/sponsors/become-a-sponsor.md)
 * [Post-Conference Events](conference/post-conference-events/README.md)
   * [Team O'Neil Rally School Tour](conference/post-conference-events/team-oneil-rally-school-tour.md)
   * [Autonomy Workshop](conference/post-conference-events/autonomy-workshop.md)
