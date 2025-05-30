@@ -15,9 +15,7 @@ The schedule will follow this general order:
    4. The overall level of effort of implementing specific technical solutions (overall effort meaning – the development/testing/training time to implement their specific algorithmic solution on a new platform, the fiscal and/or time cost related to hardware requirements or software development and testing time, the types of technical backgrounds of the engineers and students required to implement their solution confidently, etc.)
    5. What could be improved for the future
 
-
-
-The results of the workshop will be documented in a publication in the Journal of Terramechanics reporting on off-road autonomy techniques, suitability, issues, level of effort for operating in off-road environments, and concepts for future developments. The Autonomy demonstration and workshop is being planned by GVSC, CRREL and NATC. The workshop will be held at the CRREL auditorium so it is _**free of charge but registration is required**_. Sponsorships are welcome to help cover conference and demonstrations/tour costs.
+The results of the workshop will be documented in a publication in the Journal of Terramechanics reporting on off-road autonomy techniques, suitability, issues, level of effort for operating in off-road environments, and concepts for future developments. The workshop is _**free of charge but registration is required**_. Sponsorships are welcome to help cover conference and demonstrations/tour costs.
 
 ### Date & Time:&#x20;
 

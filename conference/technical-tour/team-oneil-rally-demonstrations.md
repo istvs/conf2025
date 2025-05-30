@@ -1,4 +1,5 @@
 ---
+description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
 layout:
   title:
     visible: true
