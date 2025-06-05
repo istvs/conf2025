@@ -6,5 +6,4 @@ coverY: 0
 
 # Contact
 
-For conference inquiries, please contact Lindsey.A.Wetzel@usace.army.mil
-
+For conference inquiries, please contact Michael.W.Parker@erdc.dren.mil
