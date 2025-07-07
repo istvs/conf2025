@@ -1,16 +1,5 @@
 ---
 description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Team O’Neil Rally Demonstrations

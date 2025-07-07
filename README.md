@@ -2,20 +2,6 @@
 description: ISTVS 2025 | October 6-9, 2025 | Lebanon, New Hampshire, USA
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 55th Conference of the International Society for Terrain-Vehicle Systems

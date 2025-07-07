@@ -31,7 +31,7 @@
 ## Submissions
 
 * [Papers](submissions/papers.md)
-* [Abstracts-only](submissions/abstracts-only.md)
+* [Abstracts](submissions/abstracts.md)
 
 ## Society
 
