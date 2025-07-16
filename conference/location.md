@@ -13,7 +13,7 @@ This year's conference will be held in beautiful and historic New England during
 {% hint style="warning" %}
 ## Hotel Reservations
 
-Hilton Garden Inn and Courtyard by Marriott in Lebanon, NH have provided room blocks for conference attendees to reserve. Conference rates will be available until **Sunday, August 10**, 2025, after which we are unable to guarantee rates and availability.
+Hilton Garden Inn and Courtyard by Marriott in Lebanon, NH have provided room blocks for conference attendees to reserve. Conference rates will be available until **Sunday, August 5**, 2025, after which we are unable to guarantee rates and availability.
 
 
 
