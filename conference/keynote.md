@@ -6,6 +6,38 @@ coverY: 0
 
 # Keynote
 
+## Dr. David J. Gorsich
+
+#### _Chief Scientist, U.S. Army Ground Vehicle Systems Center_
+
+<figure><img src="../.gitbook/assets/David.J.Gorsich_KeyNoteImage.jpg" alt=""><figcaption></figcaption></figure>
+
+Dr. David J. Gorsich is the U.S. Army Chief Scientist for Ground Systems at the U.S. Army\
+Futures Command, Combat Capabilities Development Command (CCDC) - Ground Vehicle\
+Systems Center (GVSC), a $1.4B/year organization with 3000 employees. He is the Army\
+Senior Research Scientist (ST) in Modeling and Simulation / Digital Engineering with a M.S.\
+degree from George Washington University, and a Ph.D. from M.I.T. in Applied Mathematics.\
+Dr. Gorsich is currently on a special assignment with the Deputy Assistant Secretary of the\
+Army for Data, Engineering and Software where he developed the Digital Engineering Strategy\
+for the Army. He is a Fellow of the Society of Automotive Engineers (SAE) and the American\
+Society of Mechanical Engineers (ASME). He is the U.S. lead for the S\&T Applied Vehicle\
+Technology Panel under NATO. He is also the Army ground lead for the TTCP Land Group.\
+He leads the GVSC basic research program, engagement with academia, and development of\
+technical staff. He currently leads the development of modeling and simulation (M\&S) tools for\
+the development and assessment of autonomous ground systems. In the past he led the\
+development and validation of underbody blast M\&S tools of ground systems. These tools were\
+used to redesign many of the U.S. Army’s combat and tactical vehicles. He also developed new\
+reliability-based design methods used to assess the reliability of ground systems, and co-led the\
+validation, fielding and use of such methods in the Army. Dr. Gorsich was the associate editor\
+of the ASME journal of mechanical design from 2009-2015. He is currently the editor-in-chief\
+for the Journal of Terramechanics and the Journal of Autonomous Vehicles and Systems. He\
+has over 200 peer-reviewed journal articles with 4300 citations and an h-index of 31. He has been\
+a visiting scholar and adjunct professor at numerous universities. His current research interests\
+are digital engineering, machine learning, terramechanics, assessment of mobility and\
+maneuver, and autonomy.
+
+***
+
 ## Dr. Paul van Susante
 
 #### _Assistant Professor at Michigan Technological University, holder of the Lou & Herbert Wacker professorship in Mechanical Engineering, department of Mechanical and Aerospace Engineering and Affiliate Assistant Professor in the Civil, Environmental and Geospatial Engineering department_
