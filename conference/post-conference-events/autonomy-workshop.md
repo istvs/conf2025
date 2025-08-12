@@ -20,7 +20,7 @@ The results of the workshop will be documented in a publication in the Journal o
 ### Date & Time:&#x20;
 
 * Friday, October 10
-* 0800 - 1200
+* 0730 - 1400
 
 [Register for the Autonomy Workshop as part of the ISTVS Conference here.](../../registration.md)
 
@@ -28,4 +28,4 @@ The results of the workshop will be documented in a publication in the Journal o
 
 **An invitation to demonstrate your autonomy capabilities during the Wednesday Technical Tour can be found here**:
 
-{% file src="../../.gitbook/assets/ISTVS Information Packet.pdf" %}
+{% file src="../../.gitbook/assets/Autonomy Workshop Info.pdf" %}
