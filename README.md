@@ -6,6 +6,12 @@ coverY: 0
 
 # 55th Conference of the International Society for Terrain-Vehicle Systems
 
+{% hint style="success" %}
+We are pleased to announce the 2025 **Conference Program**:
+
+[https://easychair.org/smart-program/ISTVS2025/index.html](https://easychair.org/smart-program/ISTVS2025/index.html)
+{% endhint %}
+
 The 55th Conference of the International Society for Terrain-Vehicle Systems (ISTVS) is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
 
 Representatives of science in the fields of mechanical engineering, vehicles and machines, robotics and automation, soil science, civil engineering, agricultural engineering, environmental engineering, as well as professionals from industry, academia and government agencies are invited to participate. The organizers particularly welcome participation of students from under- and postgraduate courses.

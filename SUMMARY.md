@@ -4,6 +4,7 @@
 * [Schedule](schedule.md)
 * [Registration](registration.md)
 * [Overview](overview.md)
+* [Live Conference Program](https://easychair.org/smart-program/ISTVS2025/index.html)
 
 ## CONFERENCE
 

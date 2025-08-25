@@ -1,5 +1,9 @@
 # Autonomy Workshop
 
+### Schedule
+
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRT9n2DaFALTdfXtzSHTMNFEgVqKXOSgkX4pRRfNHgL9uS0Y8PsbIg-A5duaaG6hmoZDDaEl8U2TBhN/pubhtml?gid=0&single=true" %}
+
 ### About
 
 The workshop aims to integrate the knowledge from the conference demonstrations, technical talks and assembled off-road mobility experts.
@@ -20,7 +24,7 @@ The results of the workshop will be documented in a publication in the Journal o
 ### Date & Time:&#x20;
 
 * Friday, October 10
-* 0730 - 1400
+* 0700 - 1600
 
 [Register for the Autonomy Workshop as part of the ISTVS Conference here.](../../registration.md)
 
