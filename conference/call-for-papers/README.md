@@ -88,7 +88,11 @@ ISTVS 2025 paper template
 
 ### Presentation <a href="#presentation" id="presentation"></a>
 
-Presentation template is in progress and will be posted soon.
+The following presentation template in _Microsoft PowerPoint_ format is provided for your convenience.
+
+{% file src="../../.gitbook/assets/ISTVS2025_Presentation_Template_R03.pptx" %}
+ISTVS 2025 presentation template
+{% endfile %}
 
 {% hint style="warning" %}
 The use of this template is **NOT** mandatory. If you choose to use your own template please maintain the **widescreen layout** and include **slide numbers**. We recommend a clean and clear layout. Whenever possible, aim for visual consistency throughout your presentation.
