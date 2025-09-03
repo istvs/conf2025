@@ -22,7 +22,7 @@ For conference inquiries, please contact Michael.W.Parker@erdc.dren.mil
 
 **Clifford Witte** | Program Committee
 
-**Heidi Howard** | ISTS North America Treasurer
+**Heidi Howard** | ISTVS North America Treasurer
 
 **Renee Melendy** | ISTVS administration for the Americas
 
