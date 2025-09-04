@@ -6,4 +6,4 @@ coverY: 0
 
 # Contact
 
-For conference inquiries, please contact Michael.W.Parker@erdc.dren.mil
+For conference inquiries, please contact the _ISTVS General Secretariat_: **gs@istvs.org**
