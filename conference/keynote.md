@@ -10,6 +10,8 @@ coverY: 0
 
 #### _Chief Scientist, U.S. Army Ground Vehicle Systems Center_
 
+Keynot&#x65;_:_ **Off-road Ground Vehicle Mobility and Assessment**
+
 <figure><img src="../.gitbook/assets/David.J.Gorsich_KeyNoteImage.jpg" alt="" width="401"><figcaption><p>Dr. David J. Gorsich, United States Army Ground Vehicle Systems Center</p></figcaption></figure>
 
 Dr. David J. Gorsich is the U.S. Army Chief Scientist for Ground Systems at the U.S. Army\
