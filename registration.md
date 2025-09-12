@@ -6,6 +6,10 @@ coverY: 0
 
 # Registration
 
+{% hint style="danger" %}
+Registration for the 2025 conference will close after September 20.
+{% endhint %}
+
 {% hint style="success" %}
 [Registration is now open. Click here to register.](https://forms.istvs.org/)
 
@@ -17,7 +21,7 @@ See registrations costs below. **Full registrations also include ISTVS membershi
 | Full Conference - Regular                 | $680.00 USD |
 | Full Conference - Student/Retiree         | $320.00 USD |
 
-| Standard Registration (June 16 - September 15) | Cost        |
+| Standard Registration (June 16 - September 20) | Cost        |
 | ---------------------------------------------- | ----------- |
 | Full Conference - Regular                      | $780.00 USD |
 | Full Conference - Student/Retiree              | $370.00 USD |
