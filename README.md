@@ -7,7 +7,7 @@ coverY: 0
 # 55th Conference of the International Society for Terrain-Vehicle Systems
 
 {% hint style="danger" %}
-[Registration for the 2025 conference will close after September 20. Register now!](registration.md)
+Registration for the 2025 conference is now closed.
 {% endhint %}
 
 {% hint style="success" %}
