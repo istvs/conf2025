@@ -49,13 +49,10 @@
   * [4368 - IMPROVING THE EXPANDING/CONTRACTING SPEED OF A PUSH-ROLLING ROVER ON LOOSE SURFACES WITH STEEP SLOPES ](/submissions/papers/4368.md)
   * [4417 - THE STATUS OF SOIL PHYSICAL, MECHANICAL, AND CHEMICAL PROPERTIES TWO YEARS AFTER DEFORESTATION IN A MILITARY TRAINING AREA ](/submissions/papers/4417.md)
   * [4558 - IN-SITU SOIL-PROPERTY ESTIMATION AND BAYESIAN MAPPING WITH A SIMULATED COMPACT TRACK LOADER](/submissions/papers/4558.md)
-  * [](/submissions/papers/.md)
-  * [](/submissions/papers/.md)
-  * [](/submissions/papers/.md)
-  * [](/submissions/papers/.md)
-  * [](/submissions/papers/.md)
-  * [](/submissions/papers/.md)
-  * [](/submissions/papers/.md)
+  * [4579 - ANALYSIS OF PASSENGER TIRE-SALTED PAVEMENT INTERACTION: A TRACTION PERSPECTIVE ](/submissions/papers/4579.md)
+  * [4755 - RELATIONSHIP BETWEEN SEASONAL VEHICLE PERFORMANCE AND TERRAIN PROPERTIES FOR PREPARED SOILS ](/submissions/papers/4755.md)
+  * [5493 - EFFECTS OF ELECTRONIC CONTROL SYSTEMS ON AUTONOMOUS VEHICLE PERFORMANCE IN GRANULAR TERRAIN ](/submissions/papers/5493.md)
+  * [5658 - WINTER ROUTE PLANNING ALGORITHM ](/submissions/papers/5658.md)
 
 * [Abstracts](submissions/abstracts.md)
 
