@@ -32,6 +32,7 @@
 ## Submissions
 
 * [Papers](submissions/papers.md)
+  * [0051 - GROUND VEHICLE DETECTION METRICS AND TERRAMECHANICAL CHARACTERIZATION DERIVED FROM A DISTRIBUTED ACOUSTIC SENSING SYSTEM DEPLOYED ON AN ARCTIC ICE ROAD](/submissions/papers/0051.md)
 * [Abstracts](submissions/abstracts.md)
 
 ## Society
