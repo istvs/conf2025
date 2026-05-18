@@ -186,6 +186,10 @@ The development and operation of exploration rovers is essential for human lunar
 
 ### 1424 - COHESIVE EFFECT BASED PEFORMANCE EVALUATION OF SINGLE-WHEEL DEM SIMULATION
 
+{% hint style="warning" %}
+Abstract-only submission
+{% endhint %}
+
 **Authors:** _Gentaro Suda, Keisuke Takehana, Kazuya Yoshida_
 
 **Key Topics:** Discrete element method Single-wheel test Lunar regolith Cohesion
