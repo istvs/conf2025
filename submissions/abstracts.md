@@ -12,7 +12,7 @@ Full paper submission
 
 **Authors:** _Aaron Meyer, Adrian Doran, Abhishek Bhagat, Meghan Quinn, Keith Wilson, Matthew Kimball, Jennifer Picucci, Wei Huang, Russ Alger_
 
-**Key Topics:** Detection & tracking Terramechanics Distributed fiber-optic sensing Distributed acoustic sensing
+**Keywords:** Detection & tracking Terramechanics Distributed fiber-optic sensing Distributed acoustic sensing
 
 **Abstract:**
 
@@ -28,7 +28,7 @@ Full paper submission
 
 **Authors:** _Luca Zerbato, Carl M. Becker, Andries J. Peenze, Enrico Galvagno, P. Schalk Els_
 
-**Key Topics:** Off-road performance Experimental testing Tyre-terrain interaction
+**Keywords:** Off-road performance Experimental testing Tyre-terrain interaction
 
 **Abstract:**
 
@@ -44,7 +44,7 @@ Abstract-only submission
 
 **Authors:** _Jyotirmoy Mukherjee, Giri M Kumar, Andrea L'afflitto, Hannah White, Corina Sandu_
 
-**Key Topics:** Off-road navigation terrain segmentation point cloud processing real-time mapping
+**Keywords:** Off-road navigation terrain segmentation point cloud processing real-time mapping
 
 **Abstract:**
 
@@ -62,7 +62,7 @@ Full paper submission
 
 **Authors:** _Vladimir Vantsevich, Jesse Paldan, Jordan Whitson, David Gorsich, Lee Moradi_
 
-**Key Topics:** Off-road mobility Soil characterization Tires
+**Keywords:** Off-road mobility Soil characterization Tires
 
 **Abstract:**
 
@@ -78,7 +78,7 @@ Abstract-only submission
 
 **Authors:** _Tomas Berglund, Joakim Rydman, Martin Servin_
 
-**Key Topics:** realtime simulation slope stability analysis mobile earthmoving equipment
+**Keywords:** realtime simulation slope stability analysis mobile earthmoving equipment
 
 **Abstract:**
 
@@ -96,7 +96,7 @@ Abstract-only submission
 
 **Authors:** _Patrick Shepherd, Paul Clayton_
 
-**Key Topics:** Robotics; Autonomy; UGV; Ukraine; THeMIS
+**Keywords:** Robotics; Autonomy; UGV; Ukraine; THeMIS
 
 **Abstract:**
 
@@ -112,7 +112,7 @@ Abstract-only submission
 
 **Authors:** _Wojciech Dawid, Krzysztof Pokonieczny, Marek Wyszyński_
 
-**Key Topics:** terrain passability weather conditions off-road mobility route planning vehicle mobility modelling
+**Keywords:** terrain passability weather conditions off-road mobility route planning vehicle mobility modelling
 
 **Abstract:**
 
@@ -128,7 +128,7 @@ Abstract-only submission
 
 **Author:** _Marek Nowakowski_
 
-**Key Topics:** Object recognition; sesnor limitations; physical properties
+**Keywords:** Object recognition; sesnor limitations; physical properties
 
 **Abstract:**
 
@@ -144,7 +144,7 @@ Abstract-only submission
 
 **Authors:** _Marek Wyszyński, Krzysztof Pokonieczny, Wojciech Dawid_
 
-**Key Topics:** terrain passability artificial Neural Networks (ANNs) off-road mobility geospatial Data vehicle mobility modelling
+**Keywords:** terrain passability artificial Neural Networks (ANNs) off-road mobility geospatial Data vehicle mobility modelling
 
 **Abstract:**
 
@@ -160,7 +160,7 @@ Full paper submission
 
 **Authors:** _Christos Kapareliotis, Schalk Els, Andries Peenze_
 
-**Key Topics:** Semi-Active Suspension Rough road Combined Slip braking in turn High centre-of-mass vehicle
+**Keywords:** Semi-Active Suspension Rough road Combined Slip braking in turn High centre-of-mass vehicle
 
 **Abstract:**
 
@@ -176,7 +176,7 @@ Abstract-only submission
 
 **Authors:** _Anthony Farkas, Henry Hodges, Cooper Madrazo_
 
-**Key Topics:** Optimal Travel Path Routing Mobility Prediction Fast running model Modeling and simulation Terramechanics
+**Keywords:** Optimal Travel Path Routing Mobility Prediction Fast running model Modeling and simulation Terramechanics
 
 **Abstract:**
 
@@ -192,7 +192,7 @@ Abstract-only submission
 
 **Authors:** _Mai Shimizu, Shingo Ozaki_
 
-**Key Topics:** Terramechanics Simulation Ground deformation Trafficability Stress evaluation
+**Keywords:** Terramechanics Simulation Ground deformation Trafficability Stress evaluation
 
 **Abstract:**
 
@@ -208,7 +208,7 @@ Abstract-only submission
 
 **Authors:** _Krzysztof Pokonieczny, Marek Wyszyński, Wojciech Dawid_
 
-**Key Topics:** terrain passability weather conditions off-road mobility index of passability
+**Keywords:** terrain passability weather conditions off-road mobility index of passability
 
 **Abstract:**
 
@@ -224,7 +224,7 @@ Full paper submission
 
 **Authors:** _Peilin Song, Burhman Gates, Joshua Fairley_
 
-**Key Topics:** Modeling and simulation (M\&S) verification and validation (V\&V) edge case raining fogging
+**Keywords:** Modeling and simulation (M\&S) verification and validation (V\&V) edge case raining fogging
 
 **Abstract:**
 
@@ -240,7 +240,7 @@ Abstract-only submission
 
 **Authors:** _Mahdi Maleki, Jozsef Kovecses_
 
-**Key Topics:** Obstacle negotiation Reduced model deformable tires
+**Keywords:** Obstacle negotiation Reduced model deformable tires
 
 **Abstract:**
 
@@ -260,7 +260,7 @@ Abstract-only submission
 
 **Authors:** _Jorge Lopera, Juan Pablo Angulo_
 
-**Key Topics:** Armored Vehicles Vehicle Dynamics Off-road vehicles
+**Keywords:** Armored Vehicles Vehicle Dynamics Off-road vehicles
 
 **Abstract:**
 
@@ -276,7 +276,7 @@ Full paper submission
 
 **Authors:** _Michael Parker, Clifford Witte, Allan Wheeler, Susan Frankenstein_
 
-**Key Topics:** Mobility vehicle Arctic freeze/thaw field capacity organic soils
+**Keywords:** Mobility vehicle Arctic freeze/thaw field capacity organic soils
 
 **Abstract:**
 
@@ -292,7 +292,7 @@ Abstract-only submission
 
 **Authors:** _Carl M. Becker, P. Schalk Els_
 
-**Key Topics:** Tyre parameters friction coefficient in-situ testing laboratory testing surface roughness
+**Keywords:** Tyre parameters friction coefficient in-situ testing laboratory testing surface roughness
 
 **Abstract:**
 
@@ -308,7 +308,7 @@ Full paper submission
 
 **Authors:** _Gerhard Skoff, Daniel Hassler, Gernot Hasenbichler_
 
-**Key Topics:** Autonomous Systems Validation Offroad-Mobility Simulation
+**Keywords:** Autonomous Systems Validation Offroad-Mobility Simulation
 
 **Abstract:**
 
@@ -335,7 +335,7 @@ Full paper submission
 
 **Authors:** _Ryosuke Eto, Fushiki Taguchi, Junya Yamakawa_
 
-**Key Topics:** local path planning autonomous unmanned ground vehicle reinforcement learning rough terrain
+**Keywords:** local path planning autonomous unmanned ground vehicle reinforcement learning rough terrain
 
 **Abstract:**
 
@@ -351,7 +351,7 @@ Full paper submission
 
 **Authors:** _Ryota Azuma, Tatsuya Maeda, Kosuke Horie, Shinichiro Miyai, Shunsuke Sugimura, Genya Ishigami_
 
-**Key Topics:** Grousered-track unit Drawbar pull coefficient Slip ratio Sandy terrain
+**Keywords:** Grousered-track unit Drawbar pull coefficient Slip ratio Sandy terrain
 
 **Abstract:**
 
@@ -367,7 +367,7 @@ Abstract-only submission
 
 **Author:** _Isabel Casasbuenas_
 
-**Key Topics:** Discrete element method Triaxial test Soil Characterization High-fidelity simulation
+**Keywords:** Discrete element method Triaxial test Soil Characterization High-fidelity simulation
 
 **Abstract:**
 
@@ -383,7 +383,7 @@ Abstract-only submission
 
 **Authors:** _Mahdi Maleki, Wing Hang HO, Joe Hewlett, Marek Teichmann, Jozsef Kovecses_
 
-**Key Topics:** Tracked vehicles Flexible tracks Real-time performance
+**Keywords:** Tracked vehicles Flexible tracks Real-time performance
 
 **Abstract:**
 
@@ -403,7 +403,7 @@ Full paper submission
 
 **Authors:** _Brian Brady, Aaron Meyer, Sergey Vecherin, Mike Parker_
 
-**Key Topics:** LiDAR snow simulation autonomous vehicle
+**Keywords:** LiDAR snow simulation autonomous vehicle
 
 **Abstract:**
 
@@ -419,7 +419,7 @@ Abstract-only submission
 
 **Author:** _Bobby Bonello_
 
-**Key Topics:** Autonomy AI ML
+**Keywords:** Autonomy AI ML
 
 **Abstract:**
 
@@ -435,7 +435,7 @@ Abstract-only submission
 
 **Author:** _Umesh Vaidya_
 
-**Key Topics:** Navigation; contol theory; linear model
+**Keywords:** Navigation; contol theory; linear model
 
 **Abstract:**
 
@@ -451,7 +451,7 @@ Full paper submission
 
 **Authors:** _Shunsuke Muryokoji, Shingo Ozaki_
 
-**Key Topics:** Microgravity Discrete Element Method (DEM) Van der Waals Force Electrostatic Force Hourglass
+**Keywords:** Microgravity Discrete Element Method (DEM) Van der Waals Force Electrostatic Force Hourglass
 
 **Abstract:**
 
@@ -467,7 +467,7 @@ Full paper submission
 
 **Authors:** _Amir Khosravian, Sadegh Yarmohammadisatri, Corina Sandu, Yinglong HE, Davide Tavernini_
 
-**Key Topics:** Off-road mobility Vehicle dynamics Tire-terrain interaction Deformable terrain modeling Flexible tire modeling
+**Keywords:** Off-road mobility Vehicle dynamics Tire-terrain interaction Deformable terrain modeling Flexible tire modeling
 
 **Abstract:**
 
@@ -483,7 +483,7 @@ Full paper submission
 
 **Authors:** _Devon Cox, P. Schalk Els_
 
-**Key Topics:** Extended brush tyre model Off road mobility Agricultural tyres Tyre soil interaction Model validation
+**Keywords:** Extended brush tyre model Off road mobility Agricultural tyres Tyre soil interaction Model validation
 
 **Abstract:**
 
@@ -499,7 +499,7 @@ Full paper submission
 
 **Authors:** _Aidan Dickerson, Bohumir Jelinek, George Mason, Thomas Skorupa, Michael Cole, Jody Priddy_
 
-**Key Topics:** Off-Road Mobility Tractive Performance Discrete Element Method Rigid Wheel Side Slip
+**Keywords:** Off-Road Mobility Tractive Performance Discrete Element Method Rigid Wheel Side Slip
 
 **Abstract:**
 
@@ -515,7 +515,7 @@ Full paper submission
 
 **Authors:** _Daisuke Fujiwara, Hiroto Fujisawa, Tasuku Hoshino, Kojiro Iizuka_
 
-**Key Topics:** Mobile robot Push-rolling motion Loose soil Planetary explorations
+**Keywords:** Mobile robot Push-rolling motion Loose soil Planetary explorations
 
 **Abstract:**
 
@@ -531,7 +531,7 @@ Abstract-only submission
 
 **Authors:** _Mehari Tekeste, Pius Jjagwe, Thomas Way, Kumaran Periannan, Raghuram Thiagarajan, Mohamed Abdeldayem_
 
-**Key Topics:** DEM soil model PM-tire FEM model Inflation pressure Single tire tester Soil rut depth Traction forces
+**Keywords:** DEM soil model PM-tire FEM model Inflation pressure Single tire tester Soil rut depth Traction forces
 
 **Abstract:**
 
@@ -547,7 +547,7 @@ Full paper submission
 
 **Authors:** _Kersti Vennik, Tõnu Tõnutare_
 
-**Key Topics:** Soil shear strength Cone index Trafficability Soil chemical elements
+**Keywords:** Soil shear strength Cone index Trafficability Soil chemical elements
 
 **Abstract:**
 
@@ -563,7 +563,7 @@ Abstract-only submission
 
 **Authors:** _Clifford Witte, Michael Parker_
 
-**Key Topics:** Snow Plows Arctic Snow Ice Removal Traction Packed Snow Compacted Snow Vehicle Performance
+**Keywords:** Snow Plows Arctic Snow Ice Removal Traction Packed Snow Compacted Snow Vehicle Performance
 
 **Abstract:**
 
@@ -580,7 +580,7 @@ Full paper submission
 
 **Authors:** _W. Jacob Wagner, Ahmet Soylemezoglu, Katherine Driggs-campbell_
 
-**Key Topics:** Autonomous Earthmoving Soil-Property Estimation Physics Infused Neural Networks Robotics Terrain Mapping
+**Keywords:** Autonomous Earthmoving Soil-Property Estimation Physics Infused Neural Networks Robotics Terrain Mapping
 
 **Abstract:**
 
@@ -600,7 +600,7 @@ Full paper submission
 
 **Authors:** _Erin Fenton, Zeinab El-sayegh_
 
-**Key Topics:** Tire Mechanics Vehicle Dynamics Terramechanics Smoothed Particle Hydrodynamics Finite Element Analysis
+**Keywords:** Tire Mechanics Vehicle Dynamics Terramechanics Smoothed Particle Hydrodynamics Finite Element Analysis
 
 **Abstract:**
 
@@ -616,7 +616,7 @@ Full paper submission
 
 **Authors:** _Susan Frankenstein, Allan Wheeler, Bruce Elder_
 
-**Key Topics:** soil freeze/thaw peat rut depth
+**Keywords:** soil freeze/thaw peat rut depth
 
 **Abstract:**
 
@@ -632,7 +632,7 @@ Abstract-only submission
 
 **Authors:** _Maik Wolleben, Joseph Dvorak, Kaleb Dempsey, Michael Peterson_
 
-**Key Topics:** Moisture Sand Trafficability Microwave Radiometry
+**Keywords:** Moisture Sand Trafficability Microwave Radiometry
 
 **Abstract:**
 
@@ -652,7 +652,7 @@ Full paper submission
 
 **Authors:** _Bohumir Jelinek, Aidan Dickerson, Angela Card, Greg Henley, George Mason, John Ethan Salmon, Ch. Michael Gibson, Tyler Hannis, Tom Skorupa, Michael Cole, Jody Priddy, Miriam Figueroa-santos, Sara Boyle, Jeremy Mange_
 
-**Key Topics:** Off-Road Mobility Soft Terrain Electronic Stability Control Antilock Braking System Double Lane Change
+**Keywords:** Off-Road Mobility Soft Terrain Electronic Stability Control Antilock Braking System Double Lane Change
 
 **Abstract:**
 
@@ -668,7 +668,7 @@ Full paper submission
 
 **Author:** _Mark Bodie_
 
-**Key Topics:** Route planning Graph Mobility
+**Keywords:** Route planning Graph Mobility
 
 **Abstract:**
 
@@ -684,7 +684,7 @@ Full paper submission
 
 **Authors:** _Peilin Song, Burhman Gates, Joshua Fairley_
 
-**Key Topics:** Vehicle-Terrain Interaction Traction Sinkage ProjectGL
+**Keywords:** Vehicle-Terrain Interaction Traction Sinkage ProjectGL
 
 **Abstract:**
 
@@ -702,7 +702,7 @@ Full paper submission
 
 **Author:** _Zamir Syed_
 
-**Key Topics:** DEM calibration soil modeling granular dynamics
+**Keywords:** DEM calibration soil modeling granular dynamics
 
 **Abstract:**
 
@@ -718,7 +718,7 @@ Abstract-only submission
 
 **Authors:** _Heidi Howard, Jaime Miranda Ramirez, Israel Lopez Toledo_
 
-**Key Topics:** terrain impact vehicle impact model soil models
+**Keywords:** terrain impact vehicle impact model soil models
 
 **Abstract:**
 
@@ -734,7 +734,7 @@ Abstract-only submission
 
 **Authors:** _Markus Pogulis, Martin Servin, Joel Nilsson_
 
-**Key Topics:** Simulation-based optimization Multibody dynamics Tracked vehicle suspension Ride quality optimization Derivative-free optimization Surrogate modeling
+**Keywords:** Simulation-based optimization Multibody dynamics Tracked vehicle suspension Ride quality optimization Derivative-free optimization Surrogate modeling
 
 **Abstract:**
 
@@ -758,7 +758,7 @@ Full paper submission
 
 **Authors:** _Russell Alger, Peter Alger_
 
-**Key Topics:** Bevameter Bekker-Wong Vehicle Mobility Traction Sinkage
+**Keywords:** Bevameter Bekker-Wong Vehicle Mobility Traction Sinkage
 
 **Abstract:**
 
@@ -778,7 +778,7 @@ Abstract-only submission
 
 **Author:** _Matthew Foglesong_
 
-**Key Topics:** Foundational Software Architecture; Unmanned Ground Vehicles (UGVs); Off-Road Autonomy; Modular Open Systems Approach (MOSA); Multi-Mission Payload Integration; Containerization and Portability; System-of-Systems Resilience; MQ-1C Gray Eagle Modernization Case Study; Cyber and Safety Certification Pathways; DoD Ground Vehicle Modernization
+**Keywords:** Foundational Software Architecture; Unmanned Ground Vehicles (UGVs); Off-Road Autonomy; Modular Open Systems Approach (MOSA); Multi-Mission Payload Integration; Containerization and Portability; System-of-Systems Resilience; MQ-1C Gray Eagle Modernization Case Study; Cyber and Safety Certification Pathways; DoD Ground Vehicle Modernization
 
 **Abstract:**
 
@@ -794,7 +794,7 @@ Full paper submission
 
 **Authors:** _James Hurrell, Keisuke Takehana, Kentaro Uno, Kazuya Yoshida_
 
-**Key Topics:** Discrete element method Lunar rover Single wheel test Simulation Gravity offload
+**Keywords:** Discrete element method Lunar rover Single wheel test Simulation Gravity offload
 
 **Abstract:**
 
@@ -816,7 +816,7 @@ Full paper submission
 
 **Authors:** _Peilin Song, Burhman Gates_
 
-**Key Topics:** Modeling and Simulation Autonomous Drive terramechanics Vehicle Dynamics Software Integration Laboratory
+**Keywords:** Modeling and Simulation Autonomous Drive terramechanics Vehicle Dynamics Software Integration Laboratory
 
 **Abstract:**
 
@@ -832,7 +832,7 @@ Full paper submission
 
 **Authors:** _Herman Hamersma, Christian Van Aswegen, Glenn Guthrie, Schalk Els, Carl Becker_
 
-**Key Topics:** terrain modelling road profiling off-road mobility
+**Keywords:** terrain modelling road profiling off-road mobility
 
 **Abstract:**
 
@@ -848,7 +848,7 @@ Full paper submission
 
 **Authors:** _György Pillinger, Peter Prof. Kiss_
 
-**Key Topics:** Optical Reflectance Load-Bearing Capacity Soils Moisture content
+**Keywords:** Optical Reflectance Load-Bearing Capacity Soils Moisture content
 
 **Abstract:**
 
@@ -864,7 +864,7 @@ Full paper submission
 
 **Authors:** _Hiroaki Kawamura, Tadashi Matsuura, Shinichiro Noda, Kohei Shintani, Nobutaka Tanishima, Natsu Fujioka_
 
-**Key Topics:** Regolith Discrete element method Differential evolution based on adaptive sampling Soil characteristcs Vacuum environment
+**Keywords:** Regolith Discrete element method Differential evolution based on adaptive sampling Soil characteristcs Vacuum environment
 
 **Abstract:**
 
@@ -880,7 +880,7 @@ Full paper submission
 
 **Authors:** _Mattias Linde, Daniel Lindmark, Sandra Ålstig, Martin Servin_
 
-**Key Topics:** simulation lunar constriction equipment autonomous earthmoving
+**Keywords:** simulation lunar constriction equipment autonomous earthmoving
 
 **Abstract:**
 
@@ -900,7 +900,7 @@ Abstract-only submission
 
 **Authors:** _Ryuta Kaneda, Masatsugu Otsuki, Shingo Ozaki_
 
-**Key Topics:** Terramechanics Resistive Force Theory Data assimilation Particle filter MMX
+**Keywords:** Terramechanics Resistive Force Theory Data assimilation Particle filter MMX
 
 **Abstract:**
 
@@ -916,7 +916,7 @@ Full paper submission
 
 **Authors:** _Sally Shoop, Elder Bruce, Stephen Meurer, Owen Parker, Nathan Kamprath, Don Halliday_
 
-**Key Topics:** Cold regions Arctic Snow Ice Friction Tire Monitoring Tire testing Characterization Winter
+**Keywords:** Cold regions Arctic Snow Ice Friction Tire Monitoring Tire testing Characterization Winter
 
 **Abstract:**
 
@@ -932,7 +932,7 @@ Abstract-only submission
 
 **Authors:** _Björn Ahlman, Tomas Berglund, Mikael Lundbäck, Joakim Rydman, Martin Servin_
 
-**Key Topics:** realtime simulation wheel-terrain interaction multibody dynamics deformable terrain
+**Keywords:** realtime simulation wheel-terrain interaction multibody dynamics deformable terrain
 
 **Abstract:**
 
@@ -948,7 +948,7 @@ Abstract-only submission
 
 **Authors:** _Eric Karpman, Jozsef Kovecses, Marek Teichmann_
 
-**Key Topics:** Terramechanics Off-Road Machine Learning Uneven Terrain Simulation Experimental Validation
+**Keywords:** Terramechanics Off-Road Machine Learning Uneven Terrain Simulation Experimental Validation
 
 **Abstract:**
 
@@ -964,7 +964,7 @@ Full paper submission
 
 **Authors:** _Amal Patel, Schalk Els_
 
-**Key Topics:** Digital Image Correlation Tyre Contact Patch Slip Angle Pressure Distribution Dynamic Rolling Radius Terrain Deformation Contact Patch Velocity Intelligent Tyres
+**Keywords:** Digital Image Correlation Tyre Contact Patch Slip Angle Pressure Distribution Dynamic Rolling Radius Terrain Deformation Contact Patch Velocity Intelligent Tyres
 
 **Abstract:**
 
@@ -980,7 +980,7 @@ Abstract-only submission
 
 **Authors:** _Zhihe Jin, Joseph Dvorak, Michael Peterson_
 
-**Key Topics:** Sand Moisture Acoustic Slow-wave
+**Keywords:** Sand Moisture Acoustic Slow-wave
 
 **Abstract:**
 
@@ -1000,7 +1000,7 @@ Full paper submission
 
 **Authors:** _Ray Kruger, Petrus Arnoldus Crous, Yuderka Trinidad Gonzalez, Mehari Tekeste_
 
-**Key Topics:** Plate Sinkage In Situ Shear Tests Bevameter Critical State Soil Mechanics (CSSM) Finite Element Method (FEM) NorSand Constitutive model
+**Keywords:** Plate Sinkage In Situ Shear Tests Bevameter Critical State Soil Mechanics (CSSM) Finite Element Method (FEM) NorSand Constitutive model
 
 **Abstract:**
 
@@ -1016,7 +1016,7 @@ Full paper submission
 
 **Author:** _Mark Bodie_
 
-**Key Topics:** snowplowing motion resistance traction mobility sinkage
+**Keywords:** snowplowing motion resistance traction mobility sinkage
 
 **Abstract:**
 
@@ -1032,7 +1032,7 @@ Full paper submission
 
 **Authors:** _Sally Shoop, John Eylander, Theodore Letcher, Kathleen Staebell_
 
-**Key Topics:** River Crossing Fluvial Geomorphology Gravel Strength Low Water Crossing River Sediments River Bottom Grain Size Wet Gap Crossing Measurement Vehicle Fording
+**Keywords:** River Crossing Fluvial Geomorphology Gravel Strength Low Water Crossing River Sediments River Bottom Grain Size Wet Gap Crossing Measurement Vehicle Fording
 
 **Abstract:**
 
@@ -1048,7 +1048,7 @@ Full paper submission
 
 **Authors:** _Haruki Endo, Shingo Ozaki, Kai Xing_
 
-**Key Topics:** Wheel Trafficability Simulation Deep learning LSTM network
+**Keywords:** Wheel Trafficability Simulation Deep learning LSTM network
 
 **Abstract:**
 
@@ -1066,7 +1066,7 @@ Full paper submission
 
 **Authors:** _John Kaniarz, Brian Brady, Laura Walizer, Phillip Price, Mike Parker_
 
-**Key Topics:** LiDAR simulation autonomous fidelity
+**Keywords:** LiDAR simulation autonomous fidelity
 
 **Abstract:**
 
@@ -1082,7 +1082,7 @@ Full paper submission
 
 **Authors:** _Tomohiro Watanabe, Dai Watanabe, Kojiro Iizuka_
 
-**Key Topics:** discrete element method bearing capacity planetary exploration vibration
+**Keywords:** discrete element method bearing capacity planetary exploration vibration
 
 **Abstract:**
 
@@ -1098,7 +1098,7 @@ Abstract-only submission
 
 **Author:** _Anthony Fragoso_
 
-**Key Topics:** Scene classification; route planning; acoustic sensors
+**Keywords:** Scene classification; route planning; acoustic sensors
 
 **Abstract:**
 
@@ -1114,7 +1114,7 @@ Abstract-only submission
 
 **Authors:** _Glenn Guthrie, Andries Peenze, Schalk Els_
 
-**Key Topics:** stereo camera ugv vehicle velocity longitudinal slip robot unmanned stability control slip control
+**Keywords:** stereo camera ugv vehicle velocity longitudinal slip robot unmanned stability control slip control
 
 **Abstract:**
 
@@ -1130,7 +1130,7 @@ Full paper submission
 
 **Authors:** _Eric Karpman, Wei Huang, Nikita Yovchev, Patrick Kehoe_
 
-**Key Topics:** Ride Quality. Rough Terrain. Off-road. Simulation. Vibration Testing.
+**Keywords:** Ride Quality. Rough Terrain. Off-road. Simulation. Vibration Testing.
 
 **Abstract:**
 
@@ -1146,7 +1146,7 @@ Full paper submission
 
 **Authors:** _Devin Chen, Chaitanya Shekhar Sonalkar, Riku Kikuta, Andries Peenze, Varsha S Swamy, John Ethan Salmon, Bohumir Jelinek, George Mason, P. Schalk Els, Corina Sandu_
 
-**Key Topics:** Terramechanics Off-road mobility Hands-on/Experiential Learning ISTVS student competitions Rapid Prototyping
+**Keywords:** Terramechanics Off-road mobility Hands-on/Experiential Learning ISTVS student competitions Rapid Prototyping
 
 **Abstract:**
 
