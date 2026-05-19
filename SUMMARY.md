@@ -27,6 +27,7 @@
 * [Post-Conference Events](conference/post-conference-events/README.md)
   * [Team O'Neil Rally School Tour](conference/post-conference-events/team-oneil-rally-school-tour.md)
   * [Autonomy Workshop](conference/post-conference-events/autonomy-workshop.md)
+* [Statement on Publication Ethics and Malpractice](conference/publication-ethics.md)
 * [Contact](conference/contact.md)
 
 ## Submissions
