@@ -70,22 +70,6 @@ The traction-longitudinal slippage curve characterizes the interaction of a driv
 
 ***
 
-### 0397 - MODELING, DESIGN, AND ASSEMBLY OF SPRING TIRES
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Author:** _Michael LU_
-
-**Key Topics:** Spring Tires Terramechanics Drawbar Pull Testing Robotics Lunar Rovers
-
-**Abstract:**
-
-With a renewed interest in the Moon and the need for autonomous lunar rovers that drive longer distances and operate over extended durations, designing efficient and robust mobility systems is paramount. Created by NASA Glenn Research Center, the spring tire is a compliant airless tire engineered for planetary rover missions in lunar and Martian environments. It consists of hundreds of coiled springs woven together to create a toroidal-shaped mesh wheel that can deform to uneven terrain, providing additional durability and traction. This work aims to apply this technology to two robotic testbeds: ERNEST, an autonomous lunar traversal rover built at NASA Jet Propulsion Laboratory, and IPEx, a lunar regolith mining robot built at Kennedy Space Center. This thesis discusses the modeling of these spring tires with numerical methods along with the design of two spring tire prototypes for use on the aforementioned rover platforms. A streamlined assembly process for these compliant wheels is also outlined as well as the results of compression testing, rough terrain driving, and drawbar pull testing to assess their performance.
-
-***
-
 ### 0398 - CONTACT DYNAMICS SLOPE STABILITY
 
 {% hint style="warning" %}
@@ -104,6 +88,22 @@ We explore a contact dynamics approach to slope failure analysis. The method sea
 
 ***
 
+### 0442 - LESSONS LEARNED FROM GLOBAL UGV AND AUTONOMOUS SYSTEMS
+
+{% hint style="warning" %}
+Abstract-only submission
+{% endhint %}
+
+**Authors:** _Patrick Shepherd, Paul Clayton_
+
+**Key Topics:** Robotics; Autonomy; UGV; Ukraine; THeMIS
+
+**Abstract:**
+
+Milrem Robotics today is in operational test and use in 19 countries worldwide.  Our systems have both robotic and autonomous capabilities depending on the customer and are operational in a variety of terrains from Western Europe, Middle East and Asia.  Our cornerstone customer is Ukraine where Milrem has been recently awarded the largest non-USA contract for UGVs.  With already over 3 years and 10,000 operational hours in support of combat operations Milrem is the largest provider of non-Ukraine UGVs in the current conflict with Russia.
+
+***
+
 ### 0583 - DYNAMIC OFF-ROAD ROUTE PLANNING: INTEGRATING TERRAIN PASSABILITY AND WEATHER FOR OPTIMAL MOBILITY
 
 {% hint style="warning" %}
@@ -117,6 +117,22 @@ Abstract-only submission
 **Abstract:**
 
 The need to move vehicles off-road arises primarily in military operations and crisis management, where standard road networks may be insufficient or inaccessible. While vehicles typically follow existing roads, critical situations often require off-road movement to execute surprise maneuvers or reach remote locations beyond the infrastructure network. In such scenarios, effective planning is crucial and requires detailed geographical data to assess terrain conditions and vehicle mobility. To support this process, terrain passability maps are essential. These specialized maps synthesize geospatial data, classifying terrain based on how different types of vehicles can navigate it. Despite advancements in vehicle traction technology, such as improved suspension, tires, and tracks, many vehicles still struggle on muddy or waterlogged soils. The war in Ukraine underscored this issue, with reports of modern Russian tanks failing to traverse swampy, clay-rich terrain. This research presents advanced methods for dynamically determining off-road routes with varying difficulty levels while accounting for changing weather conditions. The proposed solutions not only enable real-time route adjustments based on current weather patterns but also incorporate meteorological forecasts, allowing for more strategic long-term route planning. The route determination process relies on the creation of dynamic terrain passability maps, which serve as a foundation for generating a graph that calculates optimal paths. These maps take into account the impact of precipitation on soil properties. By integrating this data, routes can be precisely adapted to both environmental conditions and terrain characteristics, significantly improving efficiency and safety in difficult operational areas.
+
+***
+
+### 0733 - IMPACT OF OPERATIONAL ENVIRONMENT ON MOBILITY IN UNMANNED MODE OF WHEELED UGVS
+
+{% hint style="warning" %}
+Abstract-only submission
+{% endhint %}
+
+**Author:** _Marek Nowakowski_
+
+**Key Topics:** Object recognition; sesnor limitations; physical properties
+
+**Abstract:**
+
+Unmanned Ground Vehicles (UGVs) are increasingly deployed in environments where human access is limited or hazardous, such as military operations, disaster response, and remote exploration. The autonomous or semi-autonomous operation of these platforms relies heavily on advanced perception systems, which integrate various sensors, including LiDAR, radar, cameras, and inertial measurement units (IMUs). However, complex environments—especially those with dense vegetation—pose significant challenges for object detection and navigation. Occlusion, signal scattering, and distortion from foliage significantly reduce sensor effectiveness, compromising mobility and operational safety. This study analyzes the limitations of both active sensors (LiDAR, radar) and passive sensors (cameras) under adverse environmental conditions, particularly in contexts where security and reliability are critical. Special attention is given to the UGV’s ability to traverse obstacles in off-road terrain, focusing on design constraints and mechanical limitations that affect mobility. Additionally, the challenges in detecting and classifying objects hidden in dense vegetation are addressed to avoid collisions and prevent vehicle damage. Object recognition based on physical properties is emphasized, especially in autonomous navigation contexts. These findings are particularly relevant to sensor systems, which provide critical data to the vehicle’s navigation subsystem in unmanned mode. The study underscores the importance of optimizing sensor fusion and vehicle design to enhance reliability and mobility in challenging operational environments.
 
 ***
 
@@ -181,22 +197,6 @@ Abstract-only submission
 **Abstract:**
 
 The development and operation of exploration rovers is essential for human lunar exploration, which is considered an international space exploration goal. However, the lunar surface is a completely different environment from that on the Earth because it is covered with regolith. Hence, it is difficult to evaluate rover’s traveling performance in advance. Under these circumstances, the extended terramechanics (xTerramechanics) model has been proposed that takes terrain surface deformation into account. Meanwhile, in a wheel traveling analysis, stress evaluation models are important in the evaluation of wheel-ground interactions such as forces, torques, and soil movements. In addition to the well-known parabolic stress evaluation model proposed by Wong and Reece, Tsubaki and Ishigami have proposed a Gaussian stress evaluation model based on direct measurement of stress distributions. This model may be able to suppress excessive shear stress behind the wheel and predict more realistic traveling performance even in assuming regolith surface. Therefore, this study systematically examined the effects of these stress distribution models by conducting a traveling analysis using xTerramechanics model. The results show that for small-diameter wheels, the Gaussian distribution model can predict practical traction performance with fewer parameters.
-
-***
-
-### 1424 - COHESIVE EFFECT BASED PEFORMANCE EVALUATION OF SINGLE-WHEEL DEM SIMULATION
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Gentaro Suda, Keisuke Takehana, Kazuya Yoshida_
-
-**Key Topics:** Discrete element method Single-wheel test Lunar regolith Cohesion
-
-**Abstract:**
-
-In recent years, discrete element method (DEM) simulations have been increasingly developed to accurately evaluate wheel locomotion performance as an alternative and complement to experimental methods. Our previous research focused on two key aspects: the development and validation of DEM simulations accurately replicating single-wheel test outcomes, and comparative experiments between terrestrial sand and regolith simulant to investigate how differences in mechanical properties of sand affect wheel performance. Building upon this earlier work, the present study specifically addresses the cohesive properties characteristic of lunar regolith. Cohesion significantly influences the compaction of granular materials, potentially altering the traction performance of wheels operating on such terrain. In this paper, we systematically varied the cohesive component in particle-to-particle interactions within the DEM simulations to analyze the resultant traction performance in single-wheel tests. Results indicate that increasing particle cohesion markedly enhances traction forces. Furthermore, analysis of the relationship between slip ratio and traction performance revealed that higher cohesion notably moderates the rate of traction force change as slip ratio increases. This finding highlights that cohesive effects are particularly pronounced under low-slip conditions, suggesting cohesion plays a critical role in early stages of wheel-terrain interaction.
 
 ***
 
@@ -281,22 +281,6 @@ Full paper submission
 **Abstract:**
 
 Frost susceptible soils include a wide variety of soil types from highly organic to fine grained silty soils. These soils can pose significant mobility challenges during each of the four seasons especially during the freeze/thaw transition periods between seasons. These mobility challenges have been on display during several conflicts throughout history with the most recent being the war in Ukraine. Maintaining mobility superiority during conflict is critical to avoiding immobilization and becoming a target while maintaining mobility in the Arctic can have similar consequences because immobilization can mean the difference between life or death due to the harsh environmental conditions. This research studies the effects on vehicle mobility across three vehicle classes including both wheeled and tracked platforms operating on peat and silty soils at field capacity. Testing occurred on unfrozen, partially frozen, fully frozen, and partially thawed soil conditions to capture the maximum tractive force during these transitional seasons and better predict cross-country vehicle mobility.
-
-***
-
-### 2448 - PRACTICAL RECOMMENDATIONS FOR IMPROVED TRAFFICABILITY USING A MATTING SYSTEM
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Bradley Hansen, Collin Davenport, Zachary Aspin, Brent Towne, John Rushing_
-
-**Key Topics:** Terrain surfacing matting site stability mobility
-
-**Abstract:**
-
-Matting systems are heavily used by the US Army – Engineer Research and Development Center to increase offroad trafficability. However, practical recommendations for how much a matting system will improve trafficability based on vehicle type and soil conditions remains elusive. This effort uses three different vehicle weight classes with one matting system to quantify the trafficability improvement. In addition, this effort attempts to identify which soil testing equipment’s output best correlates with overall predictive performance of number of passes with and without matting. The soil testing equipment used are cone penetrometer, dynamic cone penetrometer, vane shear, clegg hammer, and light weight deflectometer. The outcome of this paper should yield how much the matting system improves with each vehicle weight class as well as which soil tester was the best predictor of performance.
 
 ***
 
@@ -443,19 +427,19 @@ Kodiak Robotics develops a scalable, adaptable autonomy system for commercial an
 
 ***
 
-### 4050 - AUTONOMOUS MOBILITY IN DRY TERRAINS: FIELD AND MODELING EXPERIMENTS, AND MULTIPLE SENSORS DATA FUSION
+### 4111 - OFF-ROAD AUTONOMY USING KOOPMAN THEORY
 
 {% hint style="warning" %}
 Abstract-only submission
 {% endhint %}
 
-**Authors:** _Jose L Hernandez, Brent W. Towne, Gentry Berry, Laura Walizer_
+**Author:** _Umesh Vaidya_
 
-**Key Topics:** Autonomous mobility Dry off-road terrain Low-visibility conditions Dust dispersion New instruments and data analysis
+**Key Topics:** Navigation; contol theory; linear model
 
 **Abstract:**
 
-Autonomous mobility of ground vehicle in low-visibility conditions, such as dusty off-road terrain, requires robust object detection capabilities for accurate navigation. This work presents a novel approach to support autonomous mobility in dry terrains by modeling and integrating multi-sensor data to create a 3D representation of dust dispersion. Modeling dust plumes at small scales (<100m) and short periods (<1min) must accurately represent realistic dispersion; however, that is challenging using computational fluid dynamics (CFD) methods which require validation to determine model confidence limits. The goal of the dust experiments and modeling are to provide accurate dust simulations for virtual environments. This work describes experimental tests using a small truck driving under different dry terrain and environmental conditions. The experiments were conducted prior full development of a CFD model tool configured to represent dust dispersion at the mentioned scales. Results confirm a good correlation among optical (LIDAR and cameras) and direct sensors. Dust emission rates at different soil surfaces, used in the CFD model, were estimated using a portable wind tunnel. A set of novel dust and ambient monitoring units along with reference methods to test accuracy of novel sensors, were used in the experiments. At higher truck speed, the LIDAR’s returned laser intensity decreases due to higher dust concentrations lifted by the truck. Cameras observing the physical domain in three orthogonal directions provide views to build an optical proxy of 3D dust concentration based on monitoring data. The first version and developments of the CFD modeling tool will be discussed.
+How can we make autonomous vehicles smarter in unpredictable, off-road environments? In this talk, I will share recent progress on using Koopman theory as a powerful tool for data-driven autonomy. By transforming complex, nonlinear vehicle dynamics into a linear framework, Koopman theory allows us to build linear models directly from data. This linear structure then makes it possible to design adaptive control strategies that can handle the challenges of off-road navigation with greater reliability and flexibility.
 
 ***
 
@@ -472,26 +456,6 @@ Full paper submission
 **Abstract:**
 
 Understanding the behavior of granular materials under various low-gravity conditions is essential for planetary exploration, as it impacts lander interactions, rover mobility, and in-situ resource utilization processes. However, ground-based experiments using parabolic flights and drop tower facilities are limited by short-duration microgravity conditions, making it challenging to fully capture behavior of granular materials. To address this, numerical simulations provide a powerful alternative. This study employs the discrete element method (DEM) to simulate sand-outflow behavior from hoppers under reduced gravity, based on the Hourglass experiment conducted aboard the International Space Station (ISS). The experiment utilized artificial gravity (0.06G–2G) to observe the deposition and flow characteristics of different granular materials. Using the DEM, we modeled silica sand samples (#5 and #8), incorporating contact forces, rolling resistance, and van der Waals forces/electrostatic forces to evaluate their impact on particle motion. The results show that silica sand #5 exhibited minimal adhesion effects, whereas silica sand #8 demonstrated significant accumulation of sand on walls, particularly under lower gravity conditions. Moreover, neither van der Waals nor electrostatic forces alone could fully replicate experimental results, indicating that both must be considered for accurate modeling. These findings emphasize the importance of interparticle forces in regolith behavior under low gravity and provide insights into granular material interactions in extraterrestrial environments. This study could contribute to the design and optimization of robotic systems for planetary exploration, particularly in excavation, mobility, and construction applications.
-
-***
-
-### 4135 - RIDE QUALITY MBD SIMULATION SENSITIVITY STUDY
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Reid Pulley, Gary Bailey_
-
-**Key Topics:** 3D Terrain MBD Simulation Tire model Sensitivity Analysis Ride Quality
-
-**Abstract:**
-
-The goal of this effort is to conduct a vehicle response (ride quality) sensitivity analysis varying two parameters:
-
-1. 3D terrain resolution, and 2) MBD tire model fidelity. Technologies such as LiDAR and photogrammetry have made it possible to collect high resolution 3-D surface elevation data. In this context “high resolution” terrain is considered to be a dataset with grid spacing of 1 inch or smaller. Legacy profile data typically has a sample spacing of 3 inches. According to Nyquist theory, the sample rate limits the frequency content of a signal. Thus high resolution terrain data will increase the frequency input range to a vehicle. However this high frequency input may not be significant in terms of ride quality response.
-
-3-Dimensional terrain is more representative of real world operating conditions than legacy ride quality courses, and creates a very different dynamic response than traditional 2D RMS courses. The forces generating this gross motion response are created by the tire/track interaction with the terrain. This paper focuses on the dynamic response of wheeled vehicles with pneumatic tires. The tire functions as a mechanical filter which limits the vibration input from the ground surface. Multiple tire models are available for use in the various 3D multibody dynamics simulation environments. This study utilized the Hexagon ADAMS simulation tools and considers the varying fidelity and computational cost of available tire models. The purpose of this effort is to characterize the expected ride quality response with respect to both terrain resolution and tire model fidelity in a simulation environment.
 
 ***
 
@@ -559,22 +523,6 @@ The wheeled rover has played an important role in planetary or lunar exploration
 
 ***
 
-### 4395 - ANALYSIS AND STUDY OF LUNAR ROVER TRAVERSABILITY UNDER THE ENVIRONMENTAL CHARACTERISTICS OF THE LUNAR SOUTH POLE
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Haoran Xie, Yan Shen, Zhichen Jia, Ruizhe WU, Yuzhi Wang, Jiyin Xie, Meng Zou_
-
-**Key Topics:** Lunar rover Traversability model Wheel-soil interaction model DEM-MBD coupled simulation Dynamic illumination map Ephemeris algorithm
-
-**Abstract:**
-
-Speed and energy consumption are critical factors in trajectory planning for lunar rovers in sun-synchronous orbits on the lunar surface. Both vehicle deceleration and excessive energy use may alter the rover's path, potentially disrupting the mission. This study focuses on China's lunar south pole exploration missions, analyzing mobile system energy consumption. It investigates the mechanical properties of polar regolith, slope distributions in landing zones, and dynamic illumination patterns, creating an evaluation framework combining terrain mechanics, illumination, and energy management. A traversability model for lunar rovers under low gravity was developed, integrating wheel-soil interaction, suspension-terrain compatibility, and illumination-energy synergy. DEM-MBD simulations showed that as slope increased from 0° to 20°, wheel slip ratio surged from 12% to 88.5%, and energy consumption rose from 1.18W to 7.39W. Simulations under constraints for water-ice craters (1m depth, 0.15 depth-to-diameter ratio) showed average slip ratios of 44.7% and peak pitch angles of 21.07°. Prototype testing validated the model, with errors within ±8%. Using NASA LRO-LOLA lunar terrain data and high-fidelity simulations, 2D velocity-energy maps identified traversable zones. A 3D dynamic illumination model, based on SPICE ephemeris algorithms and terrain occlusion relationships, was developed. These results provide technical solutions for China's Chang'e-7 mission.
-
-***
-
 ### 4416 - PREDICTION OF SOIL RUT DEPTH AND TIRE TRACTION FORCES USING BEKKER AND DEM-FEM TECHNIQUES
 
 {% hint style="warning" %}
@@ -604,22 +552,6 @@ Full paper submission
 **Abstract:**
 
 Military training areas are unique in their function and usage. These areas must endure intensive and repeated movement of wheeled and tracked military vehicles, as well as dismounted troops. Depending on the training requirements of defense forces, military training areas can undergo rapid land-use changes. For instance, when new firing ranges or maneuvering grounds are needed, forests may be cleared to create open areas. Deforestation has a significant impact on soil properties. Logging and uprooting activities displace soil layers and alter soil structure. The primary goal of training land managers is to restore the usability of deforested areas as quickly as possible, making the restoration of disturbed ground a key focus. The objective of this study was to assess the status of soil physical properties, chemical composition, and trafficability conditions two years after deforestation. As deforestation contributes to the release of carbon dioxide (CO₂) into the atmosphere, it plays a significant role in climate change. A key objective of this study was to evaluate changes in soil CO₂ levels following deforestation. Measurements were conducted in 2020 at a military training ground in northern Estonia. The study included bulk density and moisture content measurements, as well as the determination of California Bearing Ratio (CBR) and Cone Index (CI) values for both disturbed and undisturbed areas. The plant-available nutrient content (P, K, Mg, Ca) was determined using the ammonium acetate-lactate (AL) method. Soil carbon and nitrogen content were measured using the Dumas method. Measurement results are presented, highlighting the effects of disturbance and recovery on soil properties.
-
-***
-
-### 4425 - TRACTION-SINKAGE-SLIP CHARACTERISTIC OF WHEEL MOBILITY ON LOOSE TERRAIN
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Keisuke Takehana, Kazuya Yoshida_
-
-**Key Topics:** Single-wheel test Traction performance Sinkage
-
-**Abstract:**
-
-Accurately assessing the traction performance and sinkage of wheeled robots on soft terrain across varying slip ratios is essential. Our previous studies indicated that sinkage significantly influences traction performance under varying conditions such as load and velocity. In this study, we experimentally and analytically investigated the correlation between two critical output parameters: sinkage and traction performance. Single-wheel experiments were conducted by systematically varying wheel velocity, slip ratio, and load (equivalent to wheel weight), to determine the effect of changing sinkage levels on traction performance. Results showed no notable correlation when traction performance was plotted solely against sinkage for all collected datasets without considering slip ratio. However, grouping data according to slip ratios revealed a distinct negative correlation, indicating traction performance declines with increased sinkage. Additionally, it was observed that the slope of this negative correlation varies according to the slip ratio. These detailed insights into traction performance, sinkage, and slip ratio dynamics enhance the understanding of wheel performance and will contribute to more accurate predictions and optimized designs in future robotic mobility systems.
 
 ***
 
@@ -673,26 +605,6 @@ Full paper submission
 **Abstract:**
 
 This paper introduces a novel approach for investigating the interaction between a passenger car tire and salted pavement. A passenger car tire size 235/55 R19 was modelled within a Finite Element Analysis (FEA) software called Virtual Performance Solution (VPS) using 28 layers including solid, layered membrane, beam and shell elements. The modelled tire was validated in static and dynamic domains using manufacturer-provided data. The salt used to sit on top of the pavement was modelled using Smoothed-Particle Hydrodynamics (SPH) techniques and calibrated using shear-strength test. The salted pavement–tire interaction required the use of node-to-segment contact algorithm with edge treatment to ensure no penetration between the salt particles and the tire elements. The focus of this paper is to investigate the tractive efforts of the driven tire over the salted pavement under different operating conditions. The operating conditions include vertical loads of 3.5 kN, 5 kN, 8 kN and a nominal inflation pressure of 228 kPa at constant angular velocities equivalent to longitudinal speeds of 10 kph, 50 kph and 100 kph. To understand the impact salt has on the driving conditions of icy roads several tests including a 57 mm, 114 mm and 171 mm salt depth was selected to understand the impacts of the amount of salt on a surface. This study provides insight to the use of road salt in the winter months in Canada. As road salt is crucial in winter climates it is important to understand the implications that salting pavement will have on the performance of passenger car tires through advanced computational techniques. By understanding the implication salt has on different pavements affected by winter a deeper understanding of safety, and tire traction performance can be achieved.
-
-***
-
-### 4739 - MULTI-ROBOT AUTONOMOUS SOLUTIONS
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Forrest Johnson, Amanda Sgroi_
-
-**Key Topics:** Vegetation Filtering Negatives enhanced blackout high speed convoy leader/follower collaborative robotics attritable
-
-**Abstract:**
-
-Since 2009, autonomy and robotics at Applied Research Associates, Inc. (ARA) have been designed from the ground up to handle the most rugged off-road environments with a high priority on reaching the destination target without fail. When it comes to autonomous systems, vehicle characteristics such as stability, wheelbase, perception mounting height, and traction approach (wheels vs. tracks) significantly impact autonomous performance, so ARA has installed & trained our autonomous systems on many popular defense tactical vehicles including the PLS, MRZR TD, MRZR-X, HMMWV, and Alpha series. This proven expertise uniquely positions us to deliver a reliable, low Size, Weight, and Power system (30lbs, 180W nominal) that meets the demands of USSOCOM’s internal transport requirements. In addition, ARA has participated in the GEARS program, demonstrating autonomous high-speed (30mph) leader/follower convoy scenarios ready for contested logistics applications. Our sophisticated perception system detects and avoids obstacles concealed behind vegetation.
-
-New capabilities include our zero human intervention AI module, such as retro traverse maneuvers for obstacle avoidance, multi-point turn escape strategies for navigating tight spaces, and dynamic system software algorithm switching to apply the most effective approach to the immediate terrain.
-
-We are also investing heavily in collaborative robotics and attritable systems which are a game changer in the battlespace. We have developed a tracked multi-purpose robotic platform suitable for high mobility arctic transport as a mothership for launching and managing large UGV/UAV robotic swarms on the frontlines. All of these systems are performing collaborative autonomous teaming through ARA’s Mission Planning Management System.
 
 ***
 
@@ -761,22 +673,6 @@ Full paper submission
 **Abstract:**
 
 Cold regions represent an especially challenging environment for maneuver. In addition to standard obstacles which occur in less extreme environments, the surface itself can become an obstacle. Winter surfaces are characterized by low strength, resulting in deep vehicle sinkage with high motion resistances. In this work, we developed a cold regions route planning (WRP) algorithm that identifies low risk routes that minimizes the energy required by the vehicle to complete a mission. The algorithm fuses weather, terrain, and vehicle information to generate a unique on and off-road graph of the area of interest. A winter surface algorithm is used to predict the current snowpack’s depth and density using weather and terrain information. This information along with vehicle data, is used to generate the vehicle’s motion resistance and work associated with surface compaction, tree push over force, and gravity forces. Search requests are initiated, and optimal routes are displayed through kml files, enabling the use of existing GIS software to interface with the WRP algorithm. Experiments were conducted at the Camp Ethan Allen Test Site to validate the algorithm. Driven and predicted routes and mission completion times were compared with favorable results. Additional algorithm enhancements are identified to improve route accuracy and in-field operation.
-
-***
-
-### 5740 - EFFECTS OF REMOTE SENSING FOR GROUND VEHICLE PATH PLANNING
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Burhman Gates, Phillip Price_
-
-**Key Topics:** routing remote sensing trafficability mobility
-
-**Abstract:**
-
-This paper explores the utility of drone-based remote sensing to driving and routing for ground based vehicles. Drones can provide additional information about the terrain and trafficability to path planning algorithms, however using this remote sensing actor can incur additional costs. Quantifying the value of this remote sensing actor in terms of distance and time traveling can allow these risks to be appropriately weighed and acted on. Notional terrains are traversed with different sensing ranges and accuracies.
 
 ***
 
@@ -871,6 +767,22 @@ The Keweenaw Research Center (KRC) at Michigan Tech University has designed and 
 KRC has also performed several vehicle mobility tests both in the field and in the lab on the KRC single wheel tire tester. A large amount of this collected data is also available on the website with permission. All testing includes cone penetrometer, nuclear density, moisture, and surface friction when possible.
 
 This paper will be an overview of the Bevameter and the data collected to date, as well as an overview of other mobility testing that has been performed.
+
+***
+
+### 6752 - FOUNDATIONAL SOFTWARE ARCHITECTURES: THE CORNERSTONE OF OFF-ROAD AUTONOMY AND MULTI-MISSION UGV PERFORMANCE
+
+{% hint style="warning" %}
+Abstract-only submission
+{% endhint %}
+
+**Author:** _Matthew Foglesong_
+
+**Key Topics:** Foundational Software Architecture; Unmanned Ground Vehicles (UGVs); Off-Road Autonomy; Modular Open Systems Approach (MOSA); Multi-Mission Payload Integration; Containerization and Portability; System-of-Systems Resilience; MQ-1C Gray Eagle Modernization Case Study; Cyber and Safety Certification Pathways; DoD Ground Vehicle Modernization
+
+**Abstract:**
+
+Delivering resilient, off-road autonomy for unmanned ground vehicles (UGVs) will not come from incremental advances in perception, planning, or mobility alone. The decisive enabler is a robust software operating environment—a foundational architecture that integrates autonomy stacks, payloads, and edge compute into a coherent and resilient system-of-systems. Today, much of the DOD’s ground robotics development remains platform-centric, with limited ability to reuse or scale autonomy services across missions. Without a modular, standards-aligned software backbone, breakthroughs in autonomy cannot reliably transition to the field. Foundational software architecture must be treated as the cornerstone of UGV development. Open, containerized, and portable environments enable rapid integration of autonomy algorithms, heterogeneous payloads, and resilient communications, while ensuring certification pathways for cyber and safety. The lessons learned are informed by Parry Labs’ prior work modernizing the MQ-1C Gray Eagle fleet, where software-first approaches demonstrated how containerization, abstraction, and modular integration could transform a legacy platform into a flexible, multi-mission system. Drawing on these insights and previous experience with the Ground Vehicle Systems Center and Marine Corps Warfighting Lab's previous and ongoing robotics and UGV efforts, we will outline both the risks of not adopting a software-first paradigm and the operational advantages gained when architectures are designed for reuse, adaptability, and contested environments. Ultimately, a foundational software operating environment is the enabler of resilient autonomy, accelerated capability delivery, and true multi-mission relevance for the Army’s future ground vehicle fleet.
 
 ***
 
@@ -1012,22 +924,6 @@ The RT3 Simplified Curve Unit (SCU) friction tester, by Halliday Technologies, m
 
 ***
 
-### 7461 - ADVANCING THE FORWARD LINE OF ROBOTS: A DEMONSTRATION OF INTEGRATED AIR AND GROUND AUTONOMY FOR DYNAMIC MISSION EXECUTION
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Amanda Sgroi, Forrest Johnson_
-
-**Key Topics:** Off-road mobility Autonomous systems Mission Planning Multi-Domain Operations Unmanned Robotic Platforms
-
-**Abstract:**
-
-This white paper presents a joint demonstration by multiple divisions of Applied Research Associates (ARA) showcasing coordinated unmanned ground and aerial systems operating under real-time autonomous mission control. The described demonstration highlights the integration of unmanned ground vehicles (UGVs), unmanned aerial systems (UAS), and Neya’s Mission Planning and Management System (MPMS) to execute a complex, multi-phase mission involving reconnaissance, hazard clearance, autonomous logistics, and dynamic mission replanning. Utilizing MRZR Alphas, ARA’s Sapper robotic ground platform, and mission specific configured drones, the scenario simulates high-risk battlefield conditions to validate the emerging “forward line of robots” doctrine. This concept envisions autonomous systems operating ahead of human forces to enhance survivability, situational awareness, and tactical flexibility. This demonstration illustrates how MPMS enables synchronized autonomy and human-on-the-loop control, supporting seamless transitions across mission phases. Through real-time threat detection, task reassignment, and autonomous response, the demonstration underscores the operational value of heterogeneous robotic teams managed through a centralized control framework. This approach represents a critical capability for future conflict environments where speed, safety, and adaptability are paramount.
-
-***
-
 ### 7470 - CONSTRAINT-BASED TERRAMECHANICS SIMULATION FOR REALTIME AND FASTER SIMULATION
 
 {% hint style="warning" %}
@@ -1096,28 +992,6 @@ A model for reflection from a porous interface is formulated for a narrow distri
 
 ***
 
-### 8096 - VISION LANGUAGE ACTION MODELS ON UNMANNED GROUND VEHICLES
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _James Adams, Collin Otis, Colby Adcock_
-
-**Key Topics:** Vision language action model UGV Autonomy Low SWaP-C Passive Sensing Edge compute
-
-**Abstract:**
-
-Scout AI is developing an end-to-end learned autonomy system for unmanned ground vehicles (UGVs) with the objective of executing complex missions from a commander’s intent, desired endstate, and broader mission context.
-
-The system centers on a Vision-Language-Action Model (VLA) trained through reinforcement and imitation learning to enable adaptive control, situational reasoning, and contextual understanding in off-road, GPS- and comms-degraded environments.
-
-Scout’s autonomy operates as a retrieval-augmented generation (RAG) loop, continuously querying the VLM with real time inputs from sensor data and fuses them with prior state, and mission context to drive high-level decision-making and low-level execution to generate navigation and control outputs in real time. The autonomy stack integrates passive modular perception from a single RGB camera delivering end-to-end localization, planning, and control, optimized for low SWaP-C platforms and unstructured terrain.
-
-Field-tested at TRL 7 across an offroad UGV platform, the system has demonstrated robust terrain traversal, dynamic replanning, and waypoint navigation, supporting the broader vision of human-commanded, independently operating ground robots.
-
-***
-
 ### 8140 - NUMERICAL MODELING OF PLATE SINKAGE AND IN SITU BEVAMETER SHEAR TESTING USING FEM AND THE DENSITY-DEPENDENT NORSAND CRITICAL STATE CONSTITUTIVE SOIL MODEL
 
 {% hint style="success" %}
@@ -1163,22 +1037,6 @@ Full paper submission
 **Abstract:**
 
 Vehicle fording, a means of wet gap crossing, is difficult to study because of numerous requirements to ensure safe crossing based on both the vehicle and the changing characteristics of the river. While some of these requirements are well-known, others are so complex and variable that they remain ill-defined. This paper will review river crossing guidance with a special interest on river characteristics that are seasonally variable. While seasonal changes in river flow rate are somewhat predictable, they rely on many assumptions about the river bathymetry and discharge. The riverbank conditions can also change drastically with season, affecting ingress and egress. Lastly, the competence of the river bottom (strength and stability) is extremely difficult to estimate remotely or to measure, so this was a primary focus for this research. Recent progress in fluvial geomorphology and the new field called river morphodynamics may help in determining the best places to cross a river based on its adjacent landforms, river type, and available site observations. Equations from fluvial geomorphology and geotechnical engineering are used to relate river conditions to bottom sediment strength. Exploratory field measurements of river bottom strength were performed. Results using a modified static cone penetrometer were analyzed and methodology to evaluation the strength of the river bottom was developed. While data requires extra care to interpret, the results shed light on areas of future research needs. Fording guidance, applicable geomorphology, and recent advancements in terramechanics research for river crossings are summarized to provide context. Field methods, results and future research needs are presented.
-
-***
-
-### 8595 - MOVEMENT ENVIRONMENT ASSESSMENT AND FORCE PREDICTION FOR QUADRUPED ROBOTS
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Zhen Chen, Yuzhi Wang, Lutz Oliver Richter, Meng Zou_
-
-**Key Topics:** Quadruped robot Locomotion process Force prediction Contact state determination
-
-**Abstract:**
-
-Assessing the operating environment of a quadruped robot and analyzing the forces acting on its footpads are crucial for enhancing motion stability and enabling effective path planning, ultimately ensuring successful task completion. This study focuses on analyzing the robot's motion state and its contact process to better understand its contact dynamics and develop a comprehensive dynamic model. The model defines the relationship between footpad forces and joint angular torque, enabling both environmental assessment and force prediction. Experimental validation was conducted using the quadruped robot in various environments, confirming the model's effectiveness. By comparing the joint angular torque during contact and non-contact states, the footpad contact conditions were determined. During the contact phase, joint angular torque exceeded the non-contact torque, with greater discrepancies corresponding to higher footpad forces. These findings suggest that denser soil improves the robot’s performance. The method for calculating footpad forces from torque demonstrated an accuracy exceeding 90%, highlighting its precision. These results provide valuable insights for calculating operational forces, as well as for the stability assessment and trajectory planning of quadruped robots.
 
 ***
 
@@ -1232,19 +1090,19 @@ Recently, moving underground has been focused on as a method of planetary explor
 
 ***
 
-### 9326 - SNOW PLATE INDENTION STUDY
+### 9257 - ACOUSTIC WINTER TERRAIN CLASSIFICATION FOR OFFROAD AUTONOMOUS VEHICLES
 
 {% hint style="warning" %}
 Abstract-only submission
 {% endhint %}
 
-**Author:** _Mark Bodie_
+**Author:** _Anthony Fragoso_
 
-**Key Topics:** snow strength sinkage snow stratigraphy mobility
+**Key Topics:** Scene classification; route planning; acoustic sensors
 
 **Abstract:**
 
-Snow strength is an important factor in vehicle mobility. A high snow strength route can be trafficable, while the same route with low snow strength can result in large vehicle sinkage and immobility. In this work we generate sinkage and compression energy models from snow layer density and grain size. The models were informed from measurements taken from a snow indention device we developed. The device measures virgin snows stress strain characteristics in snowpacks up to 2m deep. The device was design to be mobile, attaching to an over-snow-vehicle, with an indention plate area, 0.03m2, relevant to tire or track contact areas. Initial snow indention measurements were taken at Grand Mesa, CO. These measurements were compared to predictions from the enhanced sinkage and energy compression models as well as to legacy models. In future work, we look to measure additional snowpacks using the plate indention device to increase the enhanced model’s prediction accuracy.
+Autonomous vehicles can experience extreme changes in performance when operating over winter surfaces, and require accurate classification to transit them safely. In this work we consider acoustic classification of winter terrain, and demonstrate that a simple and efficient frequency-space analysis exposed to a small convolutional neural network, rather than recurrent architectures or temporally-varying spectrogram inputs, is sufficient to provide near-perfect classification of deep snow, hardpacked surfaces and ice. Using a dual-microphone configuration, we also show that acoustic classification performance is due to a combination of vehicle noises and vehicle-terrain interaction noises, and that engine sounds can serve as a particularly powerful classification cue for offroad environments.
 
 ***
 
@@ -1261,22 +1119,6 @@ Abstract-only submission
 **Abstract:**
 
 In vehicle dynamics, the measurement of accurate vehicle velocity (magnitude and direction) using low-cost sensors is a significant challenge, yet this measurement is extremely valuable as an input for vehicle control systems. Traditional low-cost methods for measuring vehicle velocity often rely on dual antenna GPS algorithms that have reduced accuracy at low speed and GPS reception is often challenging in varied environments. This work applies an optical technique to measure the longitudinal and lateral velocities required to calculate slip using a downward facing depth camera (Intel Realsense) to capture images and a point cloud of the terrain surface. The images and point cloud are processed by a feature tracking algorithm and the vehicle velocity is calculated based on the relative motion of the ground and vehicle body. The technique is applied to a four-wheeled, skid steer, off-road, unmanned ground vehicle (UGV) that frequently encounters low-traction conditions while operating on slippery and uneven terrain. This suspensionless UGV has electric servo motors driving each wheel independently, allowing both measurement and control of wheel speed and torque. The calculated vehicle velocity is combined with wheel speeds from the motors to calculate individual longitudinal wheel slips. The measurement technique’s performance is evaluated by using the vehicle velocity and longitudinal wheel slip in a control algorithm that is designed to maintain a desired vehicle attitude even when wheel slip occurs. The slip measurement technique and control algorithm are evaluated by driving the vehicle on low friction and split friction surfaces while recording the desired attitude and actual vehicle attitude.
-
-***
-
-### 9467 - SAMPLING CONTROL STRATEGY FOR MARTIAN SURFACE EXCAVATION AND SAMPLING TASKS
-
-{% hint style="warning" %}
-Abstract-only submission
-{% endhint %}
-
-**Authors:** _Hongtao Cao, Meng Zou, Jianqiao LI, Haoran Xie, Jiangquan LI, Yan Shen_
-
-**Key Topics:** Excavation force prediction Robotic arm control Real-time sampling risk prediction
-
-**Abstract:**
-
-The Martian surface is densely covered with rocks, and the communication delay between Earth and Mars can extend to several tens of minutes, making autonomy, intelligent control, and real-time risk prediction critical challenges for excavation and sampling tasks. This study proposes a Hybrid Deep Reinforcement Learning (HDRL)-based framework for Martian soil sampling prediction and control. By integrating soil mechanics physics with data-driven strategies, the framework achieves closed-loop integration of dynamic excavation force prediction, autonomous robotic arm control, and real-time risk assessment. A multi-scenario model library was constructed through high-fidelity Discrete Element Method (DEM) simulations, and a hierarchical HDRL architecture was developed using rigid-flexible coupled dynamic modeling and training datasets. The control strategy was optimized via a multi-objective reward function (sampling efficiency weight: 0.6, energy consumption weight: 0.3, collision penalty weight: 0.1). Experimental results demonstrate that the HDRL framework achieves a sampling success rate exceeding 90%, reduces collision probability to below 5%, and maintains generalization errors under 10% for untrained geological conditions. This method provides a highly robust solution for autonomous sampling in Mars' complex environments.
 
 ***
 
